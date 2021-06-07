@@ -1,0 +1,22 @@
+<div class="table-responsive">
+  <table class="table">
+    <thead>
+      <tr>
+        <th>SKU</th>
+        <th>Nome</th>
+        <th>Classe</th>
+        <th>Eestoque</th>
+      </tr>
+    </thead>
+    <tbody>
+      {{#each produtos}}
+      <tr>
+        <td>{{this.sku}}</td>
+        <td>{{this.nome}}</td>
+        <td>{{this.codigoClasse}}</td>
+        <td>{{this.estoqueAtual}}</td>
+      </tr>
+      {{/each}}
+    </tbody>
+  </table>
+</div>

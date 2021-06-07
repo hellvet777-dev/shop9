@@ -1,0 +1,404 @@
+{
+  "create": [
+    {
+      "codigo": "9999",
+      "name": "Outras"
+    },
+    {
+      "codigo": "3",
+      "name": "Expediente e Escritório"
+    },
+    {
+      "codigo": "2",
+      "name": "Desenho Técnico"
+    },
+    {
+      "codigo": "1",
+      "name": "Betume"
+    },
+    {
+      "codigo": "4",
+      "name": "Serigrafia"
+    },
+    {
+      "codigo": "5",
+      "name": "Lixeira Plastica"
+    },
+    {
+      "codigo": "6",
+      "name": "Audio Visual"
+    },
+    {
+      "codigo": "7",
+      "name": "Informática"
+    },
+    {
+      "codigo": "10",
+      "name": "Acessório"
+    },
+    {
+      "codigo": "12",
+      "name": "Aplicador"
+    },
+    {
+      "codigo": "25",
+      "name": "Aranha"
+    },
+    {
+      "codigo": "16",
+      "name": "Álcool"
+    },
+    {
+      "codigo": "18",
+      "name": "Algodão"
+    },
+    {
+      "codigo": "20",
+      "name": "Alongador"
+    },
+    {
+      "codigo": "22",
+      "name": "Apagador"
+    },
+    {
+      "codigo": "26",
+      "name": "Armarinho"
+    },
+    {
+      "codigo": "28",
+      "name": "Arquivo"
+    },
+    {
+      "codigo": "30",
+      "name": "Baliza"
+    },
+    {
+      "codigo": "32",
+      "name": "Bandeira"
+    },
+    {
+      "codigo": "34",
+      "name": "Barras"
+    },
+    {
+      "codigo": "36",
+      "name": "Bateria"
+    },
+    {
+      "codigo": "38",
+      "name": "Cesto"
+    },
+    {
+      "codigo": "40",
+      "name": "Chaveta"
+    },
+    {
+      "codigo": "42",
+      "name": "Clinômetro"
+    },
+    {
+      "codigo": "44",
+      "name": "Cola"
+    },
+    {
+      "codigo": "46",
+      "name": "Compasso"
+    },
+    {
+      "codigo": "48",
+      "name": "Copo"
+    },
+    {
+      "codigo": "50",
+      "name": "Crachá"
+    },
+    {
+      "codigo": "52",
+      "name": "Desumificador"
+    },
+    {
+      "codigo": "54",
+      "name": "Diluente"
+    },
+    {
+      "codigo": "56",
+      "name": "Disquete"
+    },
+    {
+      "codigo": "58",
+      "name": "Fixador"
+    },
+    {
+      "codigo": "60",
+      "name": "Formulário"
+    },
+    {
+      "codigo": "62",
+      "name": "Gabarito"
+    },
+    {
+      "codigo": "64",
+      "name": "Garrafa"
+    },
+    {
+      "codigo": "66",
+      "name": "Gaze"
+    },
+    {
+      "codigo": "68",
+      "name": "Goma"
+    },
+    {
+      "codigo": "70",
+      "name": "Grampeador"
+    },
+    {
+      "codigo": "72",
+      "name": "Guardanapo"
+    },
+    {
+      "codigo": "74",
+      "name": "Identificador"
+    },
+    {
+      "codigo": "76",
+      "name": "Índice"
+    },
+    {
+      "codigo": "78",
+      "name": "Molha Dedo"
+    },
+    {
+      "codigo": "81",
+      "name": "Nível"
+    },
+    {
+      "codigo": "83",
+      "name": "Óleo"
+    },
+    {
+      "codigo": "85",
+      "name": "Paleta"
+    },
+    {
+      "codigo": "87",
+      "name": "Papel"
+    },
+    {
+      "codigo": "89",
+      "name": "Projetor"
+    },
+    {
+      "codigo": "91",
+      "name": "Secante"
+    },
+    {
+      "codigo": "93",
+      "name": "Sineta"
+    },
+    {
+      "codigo": "95",
+      "name": "Soprador"
+    },
+    {
+      "codigo": "97",
+      "name": "Tarja"
+    },
+    {
+      "codigo": "99",
+      "name": "Tela"
+    },
+    {
+      "codigo": "101",
+      "name": "Tesoura"
+    },
+    {
+      "codigo": "103",
+      "name": "Máquinas e Equipamentos"
+    },
+    {
+      "codigo": "105",
+      "name": "Produto Auxiliar p/Tintas"
+    },
+    {
+      "codigo": "8",
+      "name": "Topografia"
+    },
+    {
+      "codigo": "11",
+      "name": "Envelope Acetato"
+    },
+    {
+      "codigo": "13",
+      "name": "Adesivo"
+    },
+    {
+      "codigo": "15",
+      "name": "Agenda"
+    },
+    {
+      "codigo": "17",
+      "name": "Alfinete"
+    },
+    {
+      "codigo": "19",
+      "name": "Almofada"
+    },
+    {
+      "codigo": "21",
+      "name": "Anti-Veu"
+    },
+    {
+      "codigo": "24",
+      "name": "Apontador"
+    },
+    {
+      "codigo": "27",
+      "name": "Amaciante"
+    },
+    {
+      "codigo": "29",
+      "name": "Articulador"
+    },
+    {
+      "codigo": "31",
+      "name": "Banco"
+    },
+    {
+      "codigo": "33",
+      "name": "Fitilho"
+    },
+    {
+      "codigo": "35",
+      "name": "Base"
+    },
+    {
+      "codigo": "37",
+      "name": "Cera"
+    },
+    {
+      "codigo": "39",
+      "name": "Chaveiro"
+    },
+    {
+      "codigo": "41",
+      "name": "Claviculário"
+    },
+    {
+      "codigo": "43",
+      "name": "Clips"
+    },
+    {
+      "codigo": "45",
+      "name": "Colchete"
+    },
+    {
+      "codigo": "47",
+      "name": "Coordenatógrafo"
+    },
+    {
+      "codigo": "49",
+      "name": "Corretivo"
+    },
+    {
+      "codigo": "51",
+      "name": "Datador"
+    },
+    {
+      "codigo": "53",
+      "name": "Detergente"
+    },
+    {
+      "codigo": "55",
+      "name": "Dispensador"
+    },
+    {
+      "codigo": "57",
+      "name": "Fita"
+    },
+    {
+      "codigo": "59",
+      "name": "Flanela"
+    },
+    {
+      "codigo": "61",
+      "name": "Fragmentadora"
+    },
+    {
+      "codigo": "63",
+      "name": "Garra"
+    },
+    {
+      "codigo": "65",
+      "name": "Gaveteiro"
+    },
+    {
+      "codigo": "67",
+      "name": "Giz"
+    },
+    {
+      "codigo": "69",
+      "name": "GPS"
+    },
+    {
+      "codigo": "71",
+      "name": "Grampo"
+    },
+    {
+      "codigo": "73",
+      "name": "Guilhotina"
+    },
+    {
+      "codigo": "75",
+      "name": "Imã"
+    },
+    {
+      "codigo": "77",
+      "name": "Moldura"
+    },
+    {
+      "codigo": "80",
+      "name": "Mouse"
+    },
+    {
+      "codigo": "82",
+      "name": "Numerador"
+    },
+    {
+      "codigo": "84",
+      "name": "Organizador"
+    },
+    {
+      "codigo": "86",
+      "name": "Pantógrafo"
+    },
+    {
+      "codigo": "88",
+      "name": "Prensa"
+    },
+    {
+      "codigo": "90",
+      "name": "Quadro"
+    },
+    {
+      "codigo": "92",
+      "name": "Sensibilizante"
+    },
+    {
+      "codigo": "94",
+      "name": "Solvente"
+    },
+    {
+      "codigo": "96",
+      "name": "Suporte"
+    },
+    {
+      "codigo": "98",
+      "name": "Tecnigrafo"
+    },
+    {
+      "codigo": "100",
+      "name": "Terebentina"
+    }
+  ]
+}

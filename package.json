@@ -1,0 +1,13 @@
+{
+  "name": "temporarysite",
+  "version": "1.0.0",
+  "description": "Umbler nodejs temporary site",
+  "author": "Umbler <friends@umbler.com>",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app"
+  },
+  "dependencies": {
+    "express": "4.x.x"
+  }
+}

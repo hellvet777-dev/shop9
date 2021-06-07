@@ -1,0 +1,47 @@
+version: "3.7"
+
+services:
+  wordpress:
+    build: .
+    restart: always
+    ports:
+      - 9090:80
+    environment:
+      WORDPRESS_DB_HOST: db
+      WORDPRESS_DB_USER: wpuser
+      WORDPRESS_DB_PASSWORD: wppass
+      WORDPRESS_DB_NAME: wpdb
+    volumes:
+      - ./wordPress/plugins:/var/www/html/wp-content/plugins
+
+  db:
+    image: mysql:5.7
+    restart: always
+    environment:
+      MYSQL_DATABASE: wpdb
+      MYSQL_USER: wpuser
+      MYSQL_PASSWORD: wppass
+      MYSQL_RANDOM_ROOT_PASSWORD: "1"
+    volumes:
+      - db:/var/lib/mysql
+    ports:
+      - 3308:3306
+
+  phpmyadmin:
+    image: phpmyadmin/phpmyadmin
+    container_name: shop_pma
+    environment:
+      PMA_HOST: db
+      PMA_PORT: 3306
+      PMA_ARBITRARY: 1
+      PMA_USER: wpuser
+      PMA_PASSWORD: wppass
+    restart: always
+    ports:
+      - 7778:80
+
+networks:
+  back:
+
+volumes:
+  db:

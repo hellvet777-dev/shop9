@@ -1,0 +1,64 @@
+{
+  "sucesso": true,
+  "mensagem": null,
+  "tipo": null,
+  "complementoTipo": null,
+  "statusCode": 200,
+  "dados": [
+    {
+      "ordem": 61332,
+      "codigo": "24508",
+      "nome": "Alcool Gel 70° INPM Cristal 500ml Zap Clean",
+      "observacao1": "Desc.: Alcool Gel 70° INPM 500ml Cristal Zap Clean\r\nRef.:              \r\nCod.Fab.NF.: 10.03.0694\r\nMaterial/Modelo:\r\nGramatura:\r\nTamanho: 500ml\r\nCapacidade: \r\nCor: Cristal\r\nCod.Bar.Unitário:7896013403753\r\n\r\nMarca: Zap Clean\r\n\r\nQTD por Pacote: \r\nCod. Bar. Pacote: \r\n\r\nQTD por Caixa: 24 Unidades\r\nCod. Bar. Caixa:  \r\n\r\nQTD Caixa Master: \r\nCod. Bar. Caixa Master:\r\n\r\nInformações Adicionais:\r\nIndicação\r\nIdeal para limpeza de vitrines, espelhos, vidros, pisos, fórmicas, azulejos, bancadas de mármore, equipamentos e utensílios.",
+      "observacao2": "",
+      "observacao3": "",
+      "tipo": 0,
+      "codigoClasse": 16,
+      "codigoSubclasse": 453,
+      "codigoGrupo": 2,
+      "codigoMoeda": 1,
+      "codigoFamilia": 1,
+      "codigoUnidadeVenda": 80,
+      "codigoPesquisa1": 0,
+      "codigoPesquisa2": 0,
+      "codigoPesquisa3": 0,
+      "pesoLiquido": 0,
+      "pesoBruto": 0,
+      "estoqueAtual": 0,
+      "codigoFabricante": 680,
+      "webObs1": null,
+      "webObs2": null,
+      "inativo": false,
+      "altura": 0,
+      "largura": 0,
+      "comprimento": 0,
+      "urlDetalhe": "",
+      "urlEstoqueDetalhe": "/estoque/24508",
+      "urlTabelaPreco": "/precos/24508",
+      "urlPromocoes": "/promocoes/produto/24508",
+      "urlFotos": "/fotos/24508",
+      "precos": [
+        {
+          "tabela": "CUSTO MÉDIO",
+          "preco": 6.21,
+          "promocional": false
+        },
+        {
+          "tabela": "CUSTO FINAL",
+          "preco": 6.21,
+          "promocional": false
+        },
+        {
+          "tabela": "BALCAO",
+          "preco": 8.5,
+          "promocional": false
+        },
+        {
+          "tabela": "PREÇO MIN",
+          "preco": 8.5,
+          "promocional": false
+        }
+      ]
+    }
+  ]
+}

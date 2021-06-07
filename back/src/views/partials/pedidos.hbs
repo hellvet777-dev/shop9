@@ -1,0 +1,20 @@
+<div class="table-responsive">
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Recibo shop</th>
+                <th>Total</th>
+                <th>Status</th>
+            </tr>
+        </thead>
+        <tbody>
+            {{#each pedidos}}
+            <tr>
+                <td>{{this.transaction_id}}</td>
+                <td>{{this.total}}</td>
+                <td>{{this.status}}</td>
+            </tr>
+            {{/each}}
+        </tbody>
+    </table>
+</div>

@@ -1,0 +1,5152 @@
+{
+  "create": [
+    {
+      "codigo": "9999",
+      "name": "Outras"
+    },
+    {
+      "codigo": "1",
+      "name": "Acetato A4"
+    },
+    {
+      "codigo": "2",
+      "name": "Acessório"
+    },
+    {
+      "codigo": "3",
+      "name": "Adaptador p/Calculadora"
+    },
+    {
+      "codigo": "4",
+      "name": "Adesivo"
+    },
+    {
+      "codigo": "5",
+      "name": "Aerógrafo Ação Simples"
+    },
+    {
+      "codigo": "6",
+      "name": "Agenda Anual "
+    },
+    {
+      "codigo": "7",
+      "name": "Alfinete"
+    },
+    {
+      "codigo": "8",
+      "name": "Almofada p/Carimbo"
+    },
+    {
+      "codigo": "9",
+      "name": "Alongador"
+    },
+    {
+      "codigo": "10",
+      "name": "Anti-Veu"
+    },
+    {
+      "codigo": "11",
+      "name": "Papel Emborrachado"
+    },
+    {
+      "codigo": "12",
+      "name": "Aplicador"
+    },
+    {
+      "codigo": "13",
+      "name": "Apontador"
+    },
+    {
+      "codigo": "14",
+      "name": "Aranha"
+    },
+    {
+      "codigo": "15",
+      "name": "Grampeador Plástico"
+    },
+    {
+      "codigo": "16",
+      "name": "Arquivo de parede"
+    },
+    {
+      "codigo": "17",
+      "name": "Arquivo Morto Plástico"
+    },
+    {
+      "codigo": "18",
+      "name": "Articulador"
+    },
+    {
+      "codigo": "19",
+      "name": "Baliza"
+    },
+    {
+      "codigo": "20",
+      "name": "Banco"
+    },
+    {
+      "codigo": "21",
+      "name": "Bandeira"
+    },
+    {
+      "codigo": "22",
+      "name": "Base p/ Notebook"
+    },
+    {
+      "codigo": "23",
+      "name": "Bateria"
+    },
+    {
+      "codigo": "24",
+      "name": "Berco"
+    },
+    {
+      "codigo": "25",
+      "name": "Bloco"
+    },
+    {
+      "codigo": "26",
+      "name": "Bloqueador"
+    },
+    {
+      "codigo": "27",
+      "name": "Bobina"
+    },
+    {
+      "codigo": "28",
+      "name": "Borracha"
+    },
+    {
+      "codigo": "29",
+      "name": "Brocha"
+    },
+    {
+      "codigo": "30",
+      "name": "Bússola"
+    },
+    {
+      "codigo": "31",
+      "name": "Cabo"
+    },
+    {
+      "codigo": "32",
+      "name": "Caderneta Filibook "
+    },
+    {
+      "codigo": "33",
+      "name": "Caderno 96Fls"
+    },
+    {
+      "codigo": "34",
+      "name": "Calculadora de Mesa"
+    },
+    {
+      "codigo": "35",
+      "name": "Canaleta"
+    },
+    {
+      "codigo": "36",
+      "name": "Caneta Esferográfica"
+    },
+    {
+      "codigo": "37",
+      "name": "Caneta Nankim Permanente"
+    },
+    {
+      "codigo": "38",
+      "name": "Caneta Laser"
+    },
+    {
+      "codigo": "39",
+      "name": "Canudo"
+    },
+    {
+      "codigo": "40",
+      "name": "Contra Capa 1404 Cz"
+    },
+    {
+      "codigo": "41",
+      "name": "Carga p/caneta"
+    },
+    {
+      "codigo": "42",
+      "name": "Carimbo"
+    },
+    {
+      "codigo": "43",
+      "name": "Carrinho"
+    },
+    {
+      "codigo": "44",
+      "name": "Cartão de Visita"
+    },
+    {
+      "codigo": "45",
+      "name": "Cartões"
+    },
+    {
+      "codigo": "46",
+      "name": "Lápis Jumbo"
+    },
+    {
+      "codigo": "47",
+      "name": "Catalisador"
+    },
+    {
+      "codigo": "48",
+      "name": "Cavalete"
+    },
+    {
+      "codigo": "49",
+      "name": "CD-R"
+    },
+    {
+      "codigo": "50",
+      "name": "Certificados"
+    },
+    {
+      "codigo": "51",
+      "name": "Cesto Aramado"
+    },
+    {
+      "codigo": "52",
+      "name": "Chapa Linóleo"
+    },
+    {
+      "codigo": "53",
+      "name": "Chave"
+    },
+    {
+      "codigo": "54",
+      "name": "Chaveiro c/Etiqueta"
+    },
+    {
+      "codigo": "55",
+      "name": "Chaveta"
+    },
+    {
+      "codigo": "56",
+      "name": "Clinômetro"
+    },
+    {
+      "codigo": "57",
+      "name": "Clips Niquelado"
+    },
+    {
+      "codigo": "58",
+      "name": "Cola Líquida 75g"
+    },
+    {
+      "codigo": "59",
+      "name": "Cola em Bastão Fino"
+    },
+    {
+      "codigo": "60",
+      "name": "Colchete Latonado N°09"
+    },
+    {
+      "codigo": "61",
+      "name": "Compasso Escolar"
+    },
+    {
+      "codigo": "62",
+      "name": "Coordenatografo"
+    },
+    {
+      "codigo": "63",
+      "name": "Copo Descartável"
+    },
+    {
+      "codigo": "64",
+      "name": "Corretivo Líquido"
+    },
+    {
+      "codigo": "65",
+      "name": "Cortador"
+    },
+    {
+      "codigo": "66",
+      "name": "Crachá"
+    },
+    {
+      "codigo": "67",
+      "name": "Curva"
+    },
+    {
+      "codigo": "68",
+      "name": "Datador"
+    },
+    {
+      "codigo": "69",
+      "name": "Diario de Classe"
+    },
+    {
+      "codigo": "70",
+      "name": "Diluente"
+    },
+    {
+      "codigo": "71",
+      "name": "Calculadora Financeira"
+    },
+    {
+      "codigo": "72",
+      "name": "Dispensador p/Sabonete"
+    },
+    {
+      "codigo": "73",
+      "name": "Disquete"
+    },
+    {
+      "codigo": "74",
+      "name": "Lapiseira 2.0"
+    },
+    {
+      "codigo": "75",
+      "name": "Duplicador"
+    },
+    {
+      "codigo": "76",
+      "name": "Emulsão"
+    },
+    {
+      "codigo": "77",
+      "name": "Encadernadora"
+    },
+    {
+      "codigo": "78",
+      "name": "Endurecedor"
+    },
+    {
+      "codigo": "79",
+      "name": "Envelope de Papel"
+    },
+    {
+      "codigo": "80",
+      "name": "Escala"
+    },
+    {
+      "codigo": "81",
+      "name": "Luva"
+    },
+    {
+      "codigo": "82",
+      "name": "Escova p/Limpar Desenhos"
+    },
+    {
+      "codigo": "83",
+      "name": "Esfuminho N°2"
+    },
+    {
+      "codigo": "84",
+      "name": "Espatula De Aço"
+    },
+    {
+      "codigo": "85",
+      "name": "Espeto"
+    },
+    {
+      "codigo": "86",
+      "name": "Bola de Isopor"
+    },
+    {
+      "codigo": "87",
+      "name": "Esquadro"
+    },
+    {
+      "codigo": "88",
+      "name": "Estereoscópio"
+    },
+    {
+      "codigo": "89",
+      "name": "Esticador"
+    },
+    {
+      "codigo": "90",
+      "name": "Estilete Especial"
+    },
+    {
+      "codigo": "91",
+      "name": "Estojo"
+    },
+    {
+      "codigo": "92",
+      "name": "Estopa"
+    },
+    {
+      "codigo": "93",
+      "name": "Etiqueta Autoadesiva"
+    },
+    {
+      "codigo": "94",
+      "name": "Expositor"
+    },
+    {
+      "codigo": "95",
+      "name": "Extrator de Grampos"
+    },
+    {
+      "codigo": "96",
+      "name": "Ferragem"
+    },
+    {
+      "codigo": "97",
+      "name": "Amaciante 2 Litros"
+    },
+    {
+      "codigo": "98",
+      "name": "Filme"
+    },
+    {
+      "codigo": "99",
+      "name": "Fita Adesiva"
+    },
+    {
+      "codigo": "100",
+      "name": "Fita p/Maquina"
+    },
+    {
+      "codigo": "101",
+      "name": "Fixador"
+    },
+    {
+      "codigo": "102",
+      "name": "Flanela"
+    },
+    {
+      "codigo": "103",
+      "name": "Formão"
+    },
+    {
+      "codigo": "104",
+      "name": "Fomulário"
+    },
+    {
+      "codigo": "105",
+      "name": "Fragmentadora"
+    },
+    {
+      "codigo": "106",
+      "name": "Furador"
+    },
+    {
+      "codigo": "107",
+      "name": "Gabarito de Arquitetura"
+    },
+    {
+      "codigo": "108",
+      "name": "Gabinete"
+    },
+    {
+      "codigo": "109",
+      "name": "Garra"
+    },
+    {
+      "codigo": "110",
+      "name": "Gaveteiro"
+    },
+    {
+      "codigo": "111",
+      "name": "Giz"
+    },
+    {
+      "codigo": "112",
+      "name": "Godet"
+    },
+    {
+      "codigo": "113",
+      "name": "Goma Laca"
+    },
+    {
+      "codigo": "114",
+      "name": "GPS"
+    },
+    {
+      "codigo": "115",
+      "name": "Goma/Gesso"
+    },
+    {
+      "codigo": "116",
+      "name": "Grampeador"
+    },
+    {
+      "codigo": "117",
+      "name": "Grampo Cobreado"
+    },
+    {
+      "codigo": "118",
+      "name": "Guilhotina Manual"
+    },
+    {
+      "codigo": "119",
+      "name": "Imã"
+    },
+    {
+      "codigo": "120",
+      "name": "Índice Separador"
+    },
+    {
+      "codigo": "121",
+      "name": "Jogo"
+    },
+    {
+      "codigo": "122",
+      "name": "Kit Universitário"
+    },
+    {
+      "codigo": "123",
+      "name": "Lacre"
+    },
+    {
+      "codigo": "124",
+      "name": "Lâmina p/Estilete"
+    },
+    {
+      "codigo": "125",
+      "name": "Lâmpada"
+    },
+    {
+      "codigo": "126",
+      "name": "Lanterna"
+    },
+    {
+      "codigo": "127",
+      "name": "Lápis Comum"
+    },
+    {
+      "codigo": "128",
+      "name": "Lápis Aquarela"
+    },
+    {
+      "codigo": "129",
+      "name": "Lápis Dermatógrafico"
+    },
+    {
+      "codigo": "130",
+      "name": "Lapiseira 0.5"
+    },
+    {
+      "codigo": "131",
+      "name": "Lente"
+    },
+    {
+      "codigo": "132",
+      "name": "Lente"
+    },
+    {
+      "codigo": "133",
+      "name": "Liga Elástica"
+    },
+    {
+      "codigo": "134",
+      "name": "Liquido p/Limpeza"
+    },
+    {
+      "codigo": "135",
+      "name": "Livro"
+    },
+    {
+      "codigo": "136",
+      "name": "Luminária"
+    },
+    {
+      "codigo": "137",
+      "name": "Lupa"
+    },
+    {
+      "codigo": "138",
+      "name": "Maleta p/Pintura"
+    },
+    {
+      "codigo": "139",
+      "name": "Mop Pó"
+    },
+    {
+      "codigo": "140",
+      "name": "Margarida"
+    },
+    {
+      "codigo": "141",
+      "name": "Martelo"
+    },
+    {
+      "codigo": "142",
+      "name": "Mascara"
+    },
+    {
+      "codigo": "143",
+      "name": "Massa"
+    },
+    {
+      "codigo": "144",
+      "name": "Mastro"
+    },
+    {
+      "codigo": "145",
+      "name": "Mata Gato"
+    },
+    {
+      "codigo": "146",
+      "name": "Mesa"
+    },
+    {
+      "codigo": "147",
+      "name": "Mina 0.5"
+    },
+    {
+      "codigo": "148",
+      "name": "Moldura"
+    },
+    {
+      "codigo": "149",
+      "name": "Molha Dedo"
+    },
+    {
+      "codigo": "150",
+      "name": "Morcete"
+    },
+    {
+      "codigo": "151",
+      "name": "Nivel"
+    },
+    {
+      "codigo": "152",
+      "name": "Numerador"
+    },
+    {
+      "codigo": "153",
+      "name": "Óleo"
+    },
+    {
+      "codigo": "154",
+      "name": "Organizador"
+    },
+    {
+      "codigo": "155",
+      "name": "Paleta de Pintura"
+    },
+    {
+      "codigo": "156",
+      "name": "Pantógrafo"
+    },
+    {
+      "codigo": "157",
+      "name": "Papel Fantasia"
+    },
+    {
+      "codigo": "158",
+      "name": "Papel Adesivo"
+    },
+    {
+      "codigo": "159",
+      "name": "Papel Almaço"
+    },
+    {
+      "codigo": "160",
+      "name": "Papel Carbono"
+    },
+    {
+      "codigo": "161",
+      "name": "Papel Cartolina"
+    },
+    {
+      "codigo": "162",
+      "name": "Papel Colorplus"
+    },
+    {
+      "codigo": "163",
+      "name": "Papel Contact"
+    },
+    {
+      "codigo": "164",
+      "name": "Papel de Presente"
+    },
+    {
+      "codigo": "165",
+      "name": "Papel Higiênico"
+    },
+    {
+      "codigo": "166",
+      "name": "Papel Jornal"
+    },
+    {
+      "codigo": "167",
+      "name": "Papel Ofício"
+    },
+    {
+      "codigo": "168",
+      "name": "Papel p/Flip Chart"
+    },
+    {
+      "codigo": "169",
+      "name": "Papel Sulfite Branco A3"
+    },
+    {
+      "codigo": "170",
+      "name": "Papel Toalha"
+    },
+    {
+      "codigo": "171",
+      "name": "Papel Vergê"
+    },
+    {
+      "codigo": "172",
+      "name": "Paquímetro Aço Inox"
+    },
+    {
+      "codigo": "173",
+      "name": "Parafuso"
+    },
+    {
+      "codigo": "174",
+      "name": "Pasta C/Argola"
+    },
+    {
+      "codigo": "175",
+      "name": "Pasta Alcalina"
+    },
+    {
+      "codigo": "176",
+      "name": "Lápis Pastel"
+    },
+    {
+      "codigo": "177",
+      "name": "Pedestal"
+    },
+    {
+      "codigo": "178",
+      "name": "Pegador"
+    },
+    {
+      "codigo": "179",
+      "name": "Pegador de Papel"
+    },
+    {
+      "codigo": "180",
+      "name": "Película"
+    },
+    {
+      "codigo": "181",
+      "name": "Pena"
+    },
+    {
+      "codigo": "182",
+      "name": "Percevejo"
+    },
+    {
+      "codigo": "183",
+      "name": "Perfurador"
+    },
+    {
+      "codigo": "184",
+      "name": "Pigmento"
+    },
+    {
+      "codigo": "185",
+      "name": "Pilha Grande"
+    },
+    {
+      "codigo": "186",
+      "name": "Pincel Hidrográfico"
+    },
+    {
+      "codigo": "187",
+      "name": "Pino"
+    },
+    {
+      "codigo": "188",
+      "name": "Pirografo"
+    },
+    {
+      "codigo": "189",
+      "name": "Placa"
+    },
+    {
+      "codigo": "190",
+      "name": "Plástico"
+    },
+    {
+      "codigo": "191",
+      "name": "Plastificadora"
+    },
+    {
+      "codigo": "192",
+      "name": "Plotador p/Navegação "
+    },
+    {
+      "codigo": "193",
+      "name": "Porta Caneta"
+    },
+    {
+      "codigo": "194",
+      "name": "Porta Carimbo"
+    },
+    {
+      "codigo": "195",
+      "name": "Porta Correspondência"
+    },
+    {
+      "codigo": "196",
+      "name": "No-Break"
+    },
+    {
+      "codigo": "197",
+      "name": "Porta CD/DVD"
+    },
+    {
+      "codigo": "198",
+      "name": "Porta Clips/Durex"
+    },
+    {
+      "codigo": "199",
+      "name": "Porta Disquete"
+    },
+    {
+      "codigo": "200",
+      "name": "Geleira"
+    },
+    {
+      "codigo": "201",
+      "name": "Porta Etiqueta"
+    },
+    {
+      "codigo": "202",
+      "name": "Fibra Limpeza"
+    },
+    {
+      "codigo": "203",
+      "name": "Porta Horário"
+    },
+    {
+      "codigo": "204",
+      "name": "Porta Minas"
+    },
+    {
+      "codigo": "205",
+      "name": "Porta Objeto"
+    },
+    {
+      "codigo": "206",
+      "name": "Porta Pastel"
+    },
+    {
+      "codigo": "207",
+      "name": "Porta Revista"
+    },
+    {
+      "codigo": "208",
+      "name": "Marcador de Abas"
+    },
+    {
+      "codigo": "209",
+      "name": "Prancheta P/Desenhista"
+    },
+    {
+      "codigo": "210",
+      "name": "Prendedor (Grampomol)"
+    },
+    {
+      "codigo": "211",
+      "name": "Pasta AZ"
+    },
+    {
+      "codigo": "212",
+      "name": "Projetor"
+    },
+    {
+      "codigo": "213",
+      "name": "Protetor Plástico"
+    },
+    {
+      "codigo": "214",
+      "name": "Quadro Branco"
+    },
+    {
+      "codigo": "215",
+      "name": "Reabastecedor"
+    },
+    {
+      "codigo": "216",
+      "name": "Recibo"
+    },
+    {
+      "codigo": "217",
+      "name": "Refil P/Pincel"
+    },
+    {
+      "codigo": "218",
+      "name": "Refiladora"
+    },
+    {
+      "codigo": "219",
+      "name": "Régua Plástica"
+    },
+    {
+      "codigo": "220",
+      "name": "Régua Acrílica"
+    },
+    {
+      "codigo": "221",
+      "name": "Desinfetante 500ml"
+    },
+    {
+      "codigo": "222",
+      "name": "Régua Metálica"
+    },
+    {
+      "codigo": "223",
+      "name": "Régua de Conversão"
+    },
+    {
+      "codigo": "224",
+      "name": "Régua de Plotar"
+    },
+    {
+      "codigo": "225",
+      "name": "Régua de PVC Transparente"
+    },
+    {
+      "codigo": "226",
+      "name": "Régua Flexível"
+    },
+    {
+      "codigo": "227",
+      "name": "Régua Formulário"
+    },
+    {
+      "codigo": "228",
+      "name": "Régua Molegata"
+    },
+    {
+      "codigo": "229",
+      "name": "Régua Normógrafo"
+    },
+    {
+      "codigo": "230",
+      "name": "Régua p/Uso Gráfico"
+    },
+    {
+      "codigo": "231",
+      "name": "Régua Paralela"
+    },
+    {
+      "codigo": "232",
+      "name": "Mina p/ Compasso"
+    },
+    {
+      "codigo": "233",
+      "name": "Relógio"
+    },
+    {
+      "codigo": "234",
+      "name": "Removedor"
+    },
+    {
+      "codigo": "235",
+      "name": "Resistência"
+    },
+    {
+      "codigo": "236",
+      "name": "Retardador"
+    },
+    {
+      "codigo": "237",
+      "name": "Retroprojetor"
+    },
+    {
+      "codigo": "238",
+      "name": "Revista"
+    },
+    {
+      "codigo": "239",
+      "name": "Risque Rabisque"
+    },
+    {
+      "codigo": "240",
+      "name": "Rodízio"
+    },
+    {
+      "codigo": "241",
+      "name": "Rodo"
+    },
+    {
+      "codigo": "242",
+      "name": "Cesto c/ Pedal"
+    },
+    {
+      "codigo": "243",
+      "name": "Secador"
+    },
+    {
+      "codigo": "244",
+      "name": "Sensibilizante"
+    },
+    {
+      "codigo": "245",
+      "name": "Sensibilizador"
+    },
+    {
+      "codigo": "246",
+      "name": "Sineta"
+    },
+    {
+      "codigo": "247",
+      "name": "Solvente"
+    },
+    {
+      "codigo": "248",
+      "name": "Soprador"
+    },
+    {
+      "codigo": "249",
+      "name": "Spray"
+    },
+    {
+      "codigo": "250",
+      "name": "Suporte"
+    },
+    {
+      "codigo": "251",
+      "name": "Tarja"
+    },
+    {
+      "codigo": "252",
+      "name": "Tecnigrafo"
+    },
+    {
+      "codigo": "253",
+      "name": "Tela para Pintura"
+    },
+    {
+      "codigo": "254",
+      "name": "Terebentina"
+    },
+    {
+      "codigo": "255",
+      "name": "Tesoura p/Uso Geral"
+    },
+    {
+      "codigo": "256",
+      "name": "Tinta em pasta"
+    },
+    {
+      "codigo": "257",
+      "name": "Tinta a Óleo"
+    },
+    {
+      "codigo": "258",
+      "name": "Tinta Acrílica"
+    },
+    {
+      "codigo": "259",
+      "name": "Tinta Aquarela"
+    },
+    {
+      "codigo": "260",
+      "name": "Tinta Aquascreen"
+    },
+    {
+      "codigo": "261",
+      "name": "Tinta Epoxi"
+    },
+    {
+      "codigo": "262",
+      "name": "Tinta Guache"
+    },
+    {
+      "codigo": "263",
+      "name": "Tinta Nankin 20ml"
+    },
+    {
+      "codigo": "264",
+      "name": "Tinta p/Carimbo"
+    },
+    {
+      "codigo": "265",
+      "name": "Tinta Polietileno"
+    },
+    {
+      "codigo": "266",
+      "name": "Tinta Poliuretanica"
+    },
+    {
+      "codigo": "267",
+      "name": "Tinta Reabastecedor"
+    },
+    {
+      "codigo": "268",
+      "name": "Tinta Serigrafica"
+    },
+    {
+      "codigo": "269",
+      "name": "Tinta Sintética"
+    },
+    {
+      "codigo": "270",
+      "name": "Tinta Vinílica"
+    },
+    {
+      "codigo": "271",
+      "name": "Tira"
+    },
+    {
+      "codigo": "272",
+      "name": "Transferidor"
+    },
+    {
+      "codigo": "273",
+      "name": "Transparência"
+    },
+    {
+      "codigo": "274",
+      "name": "Trena"
+    },
+    {
+      "codigo": "275",
+      "name": "Tripé"
+    },
+    {
+      "codigo": "276",
+      "name": "Tubo"
+    },
+    {
+      "codigo": "277",
+      "name": "Umbrela"
+    },
+    {
+      "codigo": "278",
+      "name": "Ventilador"
+    },
+    {
+      "codigo": "279",
+      "name": "Balde Plastico"
+    },
+    {
+      "codigo": "280",
+      "name": "Vestidor"
+    },
+    {
+      "codigo": "281",
+      "name": "Visor e Etiqueta"
+    },
+    {
+      "codigo": "282",
+      "name": "Pincel de Pêlo"
+    },
+    {
+      "codigo": "283",
+      "name": "Barras"
+    },
+    {
+      "codigo": "284",
+      "name": "Saco Plástico"
+    },
+    {
+      "codigo": "285",
+      "name": "Papel Vegetal"
+    },
+    {
+      "codigo": "286",
+      "name": "Papel Manteiga"
+    },
+    {
+      "codigo": "287",
+      "name": "Espiral 07mm"
+    },
+    {
+      "codigo": "288",
+      "name": "Secante"
+    },
+    {
+      "codigo": "289",
+      "name": "Verniz"
+    },
+    {
+      "codigo": "290",
+      "name": "Filme p/Fax"
+    },
+    {
+      "codigo": "291",
+      "name": "Ficha"
+    },
+    {
+      "codigo": "292",
+      "name": "Caixa de Isopor"
+    },
+    {
+      "codigo": "293",
+      "name": "Algodão Hidrófilo"
+    },
+    {
+      "codigo": "294",
+      "name": "Tela de Projeção"
+    },
+    {
+      "codigo": "295",
+      "name": "Gaze"
+    },
+    {
+      "codigo": "296",
+      "name": "Cartucho"
+    },
+    {
+      "codigo": "297",
+      "name": "Papel Milimetrado"
+    },
+    {
+      "codigo": "298",
+      "name": "Apagador P/Q.Branco"
+    },
+    {
+      "codigo": "299",
+      "name": "Formulário Contínuo"
+    },
+    {
+      "codigo": "300",
+      "name": "Pincel Atômico"
+    },
+    {
+      "codigo": "301",
+      "name": "Pincel p/Retroprojetor"
+    },
+    {
+      "codigo": "302",
+      "name": "Pincel p/Quadro Branco"
+    },
+    {
+      "codigo": "303",
+      "name": "Envelope Plástico"
+    },
+    {
+      "codigo": "304",
+      "name": "Cadeado"
+    },
+    {
+      "codigo": "305",
+      "name": "Porta Cartão"
+    },
+    {
+      "codigo": "306",
+      "name": "Identificador"
+    },
+    {
+      "codigo": "307",
+      "name": "Porta Documento"
+    },
+    {
+      "codigo": "308",
+      "name": "Flip Chart"
+    },
+    {
+      "codigo": "309",
+      "name": "Quadro Branco Magnético"
+    },
+    {
+      "codigo": "310",
+      "name": "Quadro de Cortiça"
+    },
+    {
+      "codigo": "311",
+      "name": "Quadro de Feltro"
+    },
+    {
+      "codigo": "312",
+      "name": "Claviculário"
+    },
+    {
+      "codigo": "313",
+      "name": "Fichário"
+    },
+    {
+      "codigo": "314",
+      "name": "Índice"
+    },
+    {
+      "codigo": "315",
+      "name": "Porta Clips"
+    },
+    {
+      "codigo": "316",
+      "name": "Porta Caneta/Clips"
+    },
+    {
+      "codigo": "317",
+      "name": "Porta Caneta/Clips/Lemb."
+    },
+    {
+      "codigo": "318",
+      "name": "Porta Lembrete"
+    },
+    {
+      "codigo": "319",
+      "name": "Organizador de Escritório"
+    },
+    {
+      "codigo": "320",
+      "name": "Organizador de Gavetas"
+    },
+    {
+      "codigo": "321",
+      "name": "Prensa"
+    },
+    {
+      "codigo": "322",
+      "name": "Desumidificador de Papel"
+    },
+    {
+      "codigo": "323",
+      "name": "Pistola"
+    },
+    {
+      "codigo": "324",
+      "name": "Álcool Liquido"
+    },
+    {
+      "codigo": "325",
+      "name": "Garrafa"
+    },
+    {
+      "codigo": "326",
+      "name": "Mouse"
+    },
+    {
+      "codigo": "327",
+      "name": "Porta Copo"
+    },
+    {
+      "codigo": "328",
+      "name": "Pátina"
+    },
+    {
+      "codigo": "329",
+      "name": "Fita de Áudio/Video"
+    },
+    {
+      "codigo": "330",
+      "name": "Detergente"
+    },
+    {
+      "codigo": "331",
+      "name": "Cera Líquida"
+    },
+    {
+      "codigo": "332",
+      "name": "Vassoura"
+    },
+    {
+      "codigo": "333",
+      "name": "Lenço de Papel"
+    },
+    {
+      "codigo": "334",
+      "name": "Guardanapo"
+    },
+    {
+      "codigo": "335",
+      "name": "Barbante"
+    },
+    {
+      "codigo": "336",
+      "name": "Adesivo Spray Super"
+    },
+    {
+      "codigo": "337",
+      "name": "Agenda Executiva"
+    },
+    {
+      "codigo": "338",
+      "name": "Agenda Permanente"
+    },
+    {
+      "codigo": "339",
+      "name": "Agenda Escolar"
+    },
+    {
+      "codigo": "340",
+      "name": "Álbum Fotográfico"
+    },
+    {
+      "codigo": "341",
+      "name": "Desenho Artistico"
+    },
+    {
+      "codigo": "342",
+      "name": "Cartão de Ponto"
+    },
+    {
+      "codigo": "343",
+      "name": "Vale"
+    },
+    {
+      "codigo": "344",
+      "name": "Porta Papel"
+    },
+    {
+      "codigo": "345",
+      "name": "Para Recados"
+    },
+    {
+      "codigo": "346",
+      "name": "Para Crachá"
+    },
+    {
+      "codigo": "347",
+      "name": "Grafite"
+    },
+    {
+      "codigo": "348",
+      "name": "Bastão"
+    },
+    {
+      "codigo": "349",
+      "name": "Fita Corretiva"
+    },
+    {
+      "codigo": "350",
+      "name": "Pincel P/Vidro"
+    },
+    {
+      "codigo": "351",
+      "name": "Gabarito de Desenho"
+    },
+    {
+      "codigo": "352",
+      "name": "Gabarito de Eletricidade"
+    },
+    {
+      "codigo": "353",
+      "name": "Gabarito de Geologia"
+    },
+    {
+      "codigo": "354",
+      "name": "Gabarito de Hidráulica"
+    },
+    {
+      "codigo": "355",
+      "name": "Gabarito de Telefonia"
+    },
+    {
+      "codigo": "356",
+      "name": "Gabarito de Mecânica"
+    },
+    {
+      "codigo": "357",
+      "name": "Gabarito de Química"
+    },
+    {
+      "codigo": "358",
+      "name": "Gabarito Desetec"
+    },
+    {
+      "codigo": "359",
+      "name": "Normógrafo Trinor"
+    },
+    {
+      "codigo": "360",
+      "name": "Normógrafo Vazado"
+    },
+    {
+      "codigo": "361",
+      "name": "Esquadro c/Escala"
+    },
+    {
+      "codigo": "362",
+      "name": "Esquadro s/Escala"
+    },
+    {
+      "codigo": "363",
+      "name": "Esquadro Ajustável"
+    },
+    {
+      "codigo": "364",
+      "name": "Escalímetro"
+    },
+    {
+      "codigo": "365",
+      "name": "Escalímetro Mini"
+    },
+    {
+      "codigo": "366",
+      "name": "Escalímetro de Bolso"
+    },
+    {
+      "codigo": "367",
+      "name": "Pilha Recarregável"
+    },
+    {
+      "codigo": "368",
+      "name": "Esponja Dupla Face"
+    },
+    {
+      "codigo": "369",
+      "name": "Palha de Aço"
+    },
+    {
+      "codigo": "370",
+      "name": "Sabão em Pó"
+    },
+    {
+      "codigo": "371",
+      "name": "Bolsa"
+    },
+    {
+      "codigo": "372",
+      "name": "Mochila"
+    },
+    {
+      "codigo": "373",
+      "name": "Porta Cadernos"
+    },
+    {
+      "codigo": "374",
+      "name": "Mouse Pad"
+    },
+    {
+      "codigo": "375",
+      "name": "Maleta p/ Notebook"
+    },
+    {
+      "codigo": "376",
+      "name": "Contra Capa"
+    },
+    {
+      "codigo": "377",
+      "name": "Lacre Plást.Fita Plást."
+    },
+    {
+      "codigo": "378",
+      "name": "Lacre Plást.Fita de Metal"
+    },
+    {
+      "codigo": "379",
+      "name": "Fita p/Uso Geral"
+    },
+    {
+      "codigo": "380",
+      "name": "Fita Dupla Face"
+    },
+    {
+      "codigo": "381",
+      "name": "Fita Crepe"
+    },
+    {
+      "codigo": "382",
+      "name": "Camurça"
+    },
+    {
+      "codigo": "383",
+      "name": "Cartolina Laminada"
+    },
+    {
+      "codigo": "384",
+      "name": "Micro ondulado"
+    },
+    {
+      "codigo": "385",
+      "name": "Papel Couche"
+    },
+    {
+      "codigo": "386",
+      "name": "Papel Laminado"
+    },
+    {
+      "codigo": "387",
+      "name": "Papel Parana"
+    },
+    {
+      "codigo": "388",
+      "name": "Papel Seda"
+    },
+    {
+      "codigo": "389",
+      "name": "Papel Crepon"
+    },
+    {
+      "codigo": "390",
+      "name": "Pincel Marcador Permanent"
+    },
+    {
+      "codigo": "391",
+      "name": "Pasta Sanfonada"
+    },
+    {
+      "codigo": "392",
+      "name": "Lanterna Laser"
+    },
+    {
+      "codigo": "393",
+      "name": "Martelo p/ Geologo"
+    },
+    {
+      "codigo": "394",
+      "name": "Carvão p/ Desenho"
+    },
+    {
+      "codigo": "395",
+      "name": "Lápis Pastel Seco"
+    },
+    {
+      "codigo": "396",
+      "name": "Tinta Fluorescente"
+    },
+    {
+      "codigo": "397",
+      "name": "Teclado"
+    },
+    {
+      "codigo": "398",
+      "name": "Carregador de Pilhas"
+    },
+    {
+      "codigo": "399",
+      "name": "Fone de Ouvido"
+    },
+    {
+      "codigo": "400",
+      "name": "Web Cam"
+    },
+    {
+      "codigo": "401",
+      "name": "Microfone de Mesa"
+    },
+    {
+      "codigo": "402",
+      "name": "Cartão de Memória"
+    },
+    {
+      "codigo": "403",
+      "name": "Toner"
+    },
+    {
+      "codigo": "404",
+      "name": "Lixeira C/Pedal e Roda"
+    },
+    {
+      "codigo": "405",
+      "name": "Lixeira s/Tampa "
+    },
+    {
+      "codigo": "406",
+      "name": "Estojo p/ Pintura"
+    },
+    {
+      "codigo": "407",
+      "name": "Saco p/Lixo"
+    },
+    {
+      "codigo": "408",
+      "name": "Saco p/ Lixo Hospitalar"
+    },
+    {
+      "codigo": "409",
+      "name": "Cavalete p/ Pintura"
+    },
+    {
+      "codigo": "410",
+      "name": "Tecido TNT"
+    },
+    {
+      "codigo": "411",
+      "name": "Lápis Profissional"
+    },
+    {
+      "codigo": "412",
+      "name": "Fita p/Demarcação de Solo"
+    },
+    {
+      "codigo": "413",
+      "name": "Pincel Marca Texto"
+    },
+    {
+      "codigo": "414",
+      "name": "Massa de Modelar"
+    },
+    {
+      "codigo": "415",
+      "name": "Protetor de Rede Elétrica"
+    },
+    {
+      "codigo": "416",
+      "name": "Cabo de Força"
+    },
+    {
+      "codigo": "417",
+      "name": "Caixa de Som"
+    },
+    {
+      "codigo": "418",
+      "name": "Fita p/Impressora"
+    },
+    {
+      "codigo": "419",
+      "name": "Pen Drive"
+    },
+    {
+      "codigo": "420",
+      "name": "Suporte p/Notebook"
+    },
+    {
+      "codigo": "421",
+      "name": "Telefone VOIP"
+    },
+    {
+      "codigo": "422",
+      "name": "Caneta Glitter"
+    },
+    {
+      "codigo": "423",
+      "name": "Mira"
+    },
+    {
+      "codigo": "424",
+      "name": "Painel p/ Pintura"
+    },
+    {
+      "codigo": "425",
+      "name": "Dispensador p/Copos"
+    },
+    {
+      "codigo": "426",
+      "name": "Suporte p/ Pastas"
+    },
+    {
+      "codigo": "427",
+      "name": "Fio Sintético"
+    },
+    {
+      "codigo": "428",
+      "name": "DVD"
+    },
+    {
+      "codigo": "429",
+      "name": "Post-It"
+    },
+    {
+      "codigo": "430",
+      "name": "Antirespingo de Solda"
+    },
+    {
+      "codigo": "431",
+      "name": "Spray Desengripante"
+    },
+    {
+      "codigo": "432",
+      "name": "CD-RW"
+    },
+    {
+      "codigo": "433",
+      "name": "DVD-R"
+    },
+    {
+      "codigo": "434",
+      "name": "DVD-RW"
+    },
+    {
+      "codigo": "435",
+      "name": "Tampa p/vaso sanitário"
+    },
+    {
+      "codigo": "436",
+      "name": "Pasta Susp. Plastificada"
+    },
+    {
+      "codigo": "437",
+      "name": "Plástico Polaseal"
+    },
+    {
+      "codigo": "438",
+      "name": "Sabão em Barra"
+    },
+    {
+      "codigo": "439",
+      "name": "Desinfetante 1 Litro"
+    },
+    {
+      "codigo": "440",
+      "name": "Limpa Alumínio"
+    },
+    {
+      "codigo": "441",
+      "name": "Água Sanitária"
+    },
+    {
+      "codigo": "442",
+      "name": "Trena de Fibra de Vidro"
+    },
+    {
+      "codigo": "443",
+      "name": "Estilete Largo"
+    },
+    {
+      "codigo": "444",
+      "name": "Trena de Bolso"
+    },
+    {
+      "codigo": "445",
+      "name": "Balança"
+    },
+    {
+      "codigo": "446",
+      "name": "Limpador"
+    },
+    {
+      "codigo": "447",
+      "name": "Placa Sinalizadora"
+    },
+    {
+      "codigo": "448",
+      "name": "Guardanapo de Papel"
+    },
+    {
+      "codigo": "449",
+      "name": "Pedra Sanitária"
+    },
+    {
+      "codigo": "450",
+      "name": "Pincel Recarregável p/Q.B"
+    },
+    {
+      "codigo": "451",
+      "name": "Esponja de lã de aço"
+    },
+    {
+      "codigo": "452",
+      "name": "Placa de Isopor"
+    },
+    {
+      "codigo": "453",
+      "name": "Álcool Gel"
+    },
+    {
+      "codigo": "454",
+      "name": "Fita Decorativa"
+    },
+    {
+      "codigo": "455",
+      "name": "Garrafa Térmica"
+    },
+    {
+      "codigo": "456",
+      "name": "Lixeira Coleta Seletiva"
+    },
+    {
+      "codigo": "457",
+      "name": "Café"
+    },
+    {
+      "codigo": "458",
+      "name": "Açúcar 1Kg"
+    },
+    {
+      "codigo": "459",
+      "name": "Vareta Madeira"
+    },
+    {
+      "codigo": "460",
+      "name": "Espelho"
+    },
+    {
+      "codigo": "461",
+      "name": "Relógio de Parede"
+    },
+    {
+      "codigo": "462",
+      "name": "Óleo de Linhaça"
+    },
+    {
+      "codigo": "463",
+      "name": "Alicate Acabamento"
+    },
+    {
+      "codigo": "464",
+      "name": "Chapa Madeira"
+    },
+    {
+      "codigo": "465",
+      "name": "Perfil Fenolite"
+    },
+    {
+      "codigo": "466",
+      "name": "Chapa Spumatec"
+    },
+    {
+      "codigo": "467",
+      "name": "Vareta PVC"
+    },
+    {
+      "codigo": "468",
+      "name": "Sabonete"
+    },
+    {
+      "codigo": "469",
+      "name": "Caneta Lanterna"
+    },
+    {
+      "codigo": "470",
+      "name": "Pasta Catálogo"
+    },
+    {
+      "codigo": "471",
+      "name": "Pasta Tipo Fichario"
+    },
+    {
+      "codigo": "472",
+      "name": "Pasta c/ Canaleta"
+    },
+    {
+      "codigo": "473",
+      "name": "Miniatura"
+    },
+    {
+      "codigo": "474",
+      "name": "Soda Cáustica"
+    },
+    {
+      "codigo": "475",
+      "name": "Inseticida"
+    },
+    {
+      "codigo": "476",
+      "name": "Sabonete Líquido"
+    },
+    {
+      "codigo": "477",
+      "name": "Dicionário"
+    },
+    {
+      "codigo": "478",
+      "name": "Minidicionário"
+    },
+    {
+      "codigo": "479",
+      "name": "Balão"
+    },
+    {
+      "codigo": "480",
+      "name": "Dominó Plástico"
+    },
+    {
+      "codigo": "481",
+      "name": "Giz Pastel à óleo"
+    },
+    {
+      "codigo": "482",
+      "name": "Balde p/ Concreto"
+    },
+    {
+      "codigo": "483",
+      "name": "Apito de Plástico"
+    },
+    {
+      "codigo": "484",
+      "name": "Pasta Classificadora"
+    },
+    {
+      "codigo": "485",
+      "name": "M.D.F. Artesanato"
+    },
+    {
+      "codigo": "486",
+      "name": "Prateleira"
+    },
+    {
+      "codigo": "487",
+      "name": "Lixeira c/Tampa"
+    },
+    {
+      "codigo": "488",
+      "name": "Pinça"
+    },
+    {
+      "codigo": "489",
+      "name": "Cadeira Plástica"
+    },
+    {
+      "codigo": "490",
+      "name": "Guardanapo Decorativo"
+    },
+    {
+      "codigo": "491",
+      "name": "Papel p/Arte Francesa"
+    },
+    {
+      "codigo": "492",
+      "name": "Corretivo Tipo Caneta"
+    },
+    {
+      "codigo": "493",
+      "name": "Mesa de Luz"
+    },
+    {
+      "codigo": "494",
+      "name": "Lápis Graduado"
+    },
+    {
+      "codigo": "495",
+      "name": "Lixa p/ Apontar"
+    },
+    {
+      "codigo": "496",
+      "name": "Esteca de Arame"
+    },
+    {
+      "codigo": "497",
+      "name": "Papel Lay Out"
+    },
+    {
+      "codigo": "498",
+      "name": "Papel P/Desenho"
+    },
+    {
+      "codigo": "499",
+      "name": "Papel Esboço"
+    },
+    {
+      "codigo": "500",
+      "name": "Pasta Tubolar"
+    },
+    {
+      "codigo": "501",
+      "name": "Caderno de Desenho"
+    },
+    {
+      "codigo": "502",
+      "name": "Lixeira c/Pedal"
+    },
+    {
+      "codigo": "503",
+      "name": "Expositor p/Catálogos"
+    },
+    {
+      "codigo": "504",
+      "name": "Pantógrafo de Madeira"
+    },
+    {
+      "codigo": "505",
+      "name": "Fósforo"
+    },
+    {
+      "codigo": "506",
+      "name": "Palito de Dente"
+    },
+    {
+      "codigo": "507",
+      "name": "Papel Casca de Ovo"
+    },
+    {
+      "codigo": "508",
+      "name": "Papel Linho"
+    },
+    {
+      "codigo": "509",
+      "name": "Bobina de Senha"
+    },
+    {
+      "codigo": "510",
+      "name": "Chapa Acrílico"
+    },
+    {
+      "codigo": "511",
+      "name": "Saboneteira Plástica"
+    },
+    {
+      "codigo": "512",
+      "name": "Saboneteira de Vidro"
+    },
+    {
+      "codigo": "513",
+      "name": "Adesivo Decorativo"
+    },
+    {
+      "codigo": "514",
+      "name": "Botão Decorativo"
+    },
+    {
+      "codigo": "515",
+      "name": "Gaze de Nylon"
+    },
+    {
+      "codigo": "516",
+      "name": "Furador Artesanal"
+    },
+    {
+      "codigo": "517",
+      "name": "Sinalizador p/Pintura"
+    },
+    {
+      "codigo": "518",
+      "name": "Fita de Cetim"
+    },
+    {
+      "codigo": "519",
+      "name": "Fitilho"
+    },
+    {
+      "codigo": "520",
+      "name": "Frigobar"
+    },
+    {
+      "codigo": "521",
+      "name": "Revista de Música"
+    },
+    {
+      "codigo": "522",
+      "name": "Pictograma"
+    },
+    {
+      "codigo": "523",
+      "name": "Gabarito de Cobertura"
+    },
+    {
+      "codigo": "524",
+      "name": "Pena Ponta Inox"
+    },
+    {
+      "codigo": "525",
+      "name": "Grampo Trilho"
+    },
+    {
+      "codigo": "526",
+      "name": "Pulverizador 500ml"
+    },
+    {
+      "codigo": "527",
+      "name": "Multicolage"
+    },
+    {
+      "codigo": "528",
+      "name": "Gel Matizante"
+    },
+    {
+      "codigo": "529",
+      "name": "Base P/Tintas"
+    },
+    {
+      "codigo": "530",
+      "name": "Papel Cartão"
+    },
+    {
+      "codigo": "531",
+      "name": "Canudo Papelão p/Projeto"
+    },
+    {
+      "codigo": "532",
+      "name": "Lâmina p/Babear"
+    },
+    {
+      "codigo": "533",
+      "name": "Telefone c/Fio"
+    },
+    {
+      "codigo": "534",
+      "name": "Maizena"
+    },
+    {
+      "codigo": "535",
+      "name": "Caixa Organizadora"
+    },
+    {
+      "codigo": "536",
+      "name": "Maleta Arquivo"
+    },
+    {
+      "codigo": "537",
+      "name": "Porta Crachá"
+    },
+    {
+      "codigo": "538",
+      "name": "Pasta Clip Board"
+    },
+    {
+      "codigo": "539",
+      "name": "Conjunto de Limpeza"
+    },
+    {
+      "codigo": "540",
+      "name": "Pá Metálica Cabo Longo"
+    },
+    {
+      "codigo": "541",
+      "name": "Suporte Rolo"
+    },
+    {
+      "codigo": "542",
+      "name": "Desodorizador de Ar"
+    },
+    {
+      "codigo": "543",
+      "name": "Linha"
+    },
+    {
+      "codigo": "544",
+      "name": "Agulha de Mão"
+    },
+    {
+      "codigo": "545",
+      "name": "Suporte p/Extintor"
+    },
+    {
+      "codigo": "546",
+      "name": "Pasta L"
+    },
+    {
+      "codigo": "547",
+      "name": "Pasta c/Grampo/Ferragem"
+    },
+    {
+      "codigo": "548",
+      "name": "Quadro Multiuso"
+    },
+    {
+      "codigo": "549",
+      "name": "Ficha Pautada"
+    },
+    {
+      "codigo": "550",
+      "name": "Suporte p/Fita Adesiva"
+    },
+    {
+      "codigo": "551",
+      "name": "Sanduicheira"
+    },
+    {
+      "codigo": "552",
+      "name": "Dispensador de Fita"
+    },
+    {
+      "codigo": "553",
+      "name": "Pincel Rolo"
+    },
+    {
+      "codigo": "554",
+      "name": "Apontador c/Depósito"
+    },
+    {
+      "codigo": "555",
+      "name": "Tinta Spray"
+    },
+    {
+      "codigo": "556",
+      "name": "Furador Ovoide"
+    },
+    {
+      "codigo": "557",
+      "name": "Armação p/Mop"
+    },
+    {
+      "codigo": "558",
+      "name": "Canudo de Diploma"
+    },
+    {
+      "codigo": "559",
+      "name": "Capa p/DVD-CD"
+    },
+    {
+      "codigo": "560",
+      "name": "Gabarito de Sanitário"
+    },
+    {
+      "codigo": "561",
+      "name": "Anti-Mofo"
+    },
+    {
+      "codigo": "562",
+      "name": "Desengraxante"
+    },
+    {
+      "codigo": "563",
+      "name": "Fita Isolante"
+    },
+    {
+      "codigo": "564",
+      "name": "Suporte para moedas"
+    },
+    {
+      "codigo": "565",
+      "name": "Lustrador de Móveis"
+    },
+    {
+      "codigo": "566",
+      "name": "DVD Filmes/Séries"
+    },
+    {
+      "codigo": "567",
+      "name": "Papel Alumínio"
+    },
+    {
+      "codigo": "568",
+      "name": "Calculadora Científica"
+    },
+    {
+      "codigo": "569",
+      "name": "Perfurador 1 Furo"
+    },
+    {
+      "codigo": "570",
+      "name": "Fonte"
+    },
+    {
+      "codigo": "571",
+      "name": "Bacia Redonda"
+    },
+    {
+      "codigo": "572",
+      "name": "Canteadeira Conjugada"
+    },
+    {
+      "codigo": "573",
+      "name": "Câmera Digital"
+    },
+    {
+      "codigo": "574",
+      "name": "Bolsa p/Máquina Fotográfi"
+    },
+    {
+      "codigo": "575",
+      "name": "Gaveteiro c/Chave"
+    },
+    {
+      "codigo": "576",
+      "name": "Apontador Elétrico"
+    },
+    {
+      "codigo": "577",
+      "name": "Transferidor Acrílico"
+    },
+    {
+      "codigo": "578",
+      "name": "Carrinho p/Pintura"
+    },
+    {
+      "codigo": "579",
+      "name": "Papel Filicoat"
+    },
+    {
+      "codigo": "580",
+      "name": "Bobina Térmica"
+    },
+    {
+      "codigo": "581",
+      "name": "Pincel p/CD/DVD"
+    },
+    {
+      "codigo": "582",
+      "name": "Desengordurante"
+    },
+    {
+      "codigo": "583",
+      "name": "Lápis de Cera"
+    },
+    {
+      "codigo": "584",
+      "name": "Pincel Marcador de Tecido"
+    },
+    {
+      "codigo": "585",
+      "name": "Tinta Plástica PVA"
+    },
+    {
+      "codigo": "586",
+      "name": "Cola c/Glitter"
+    },
+    {
+      "codigo": "587",
+      "name": "Marcador Industrial"
+    },
+    {
+      "codigo": "588",
+      "name": "Gabarito Combinado"
+    },
+    {
+      "codigo": "589",
+      "name": "Coletor de Copos"
+    },
+    {
+      "codigo": "590",
+      "name": "Livro Ata"
+    },
+    {
+      "codigo": "591",
+      "name": "Cortiça"
+    },
+    {
+      "codigo": "592",
+      "name": "Pegador de Alimento"
+    },
+    {
+      "codigo": "593",
+      "name": "Panela em Aço Inox"
+    },
+    {
+      "codigo": "594",
+      "name": "Faqueiro em Aço Inox"
+    },
+    {
+      "codigo": "595",
+      "name": "Conjunto de Utensilios"
+    },
+    {
+      "codigo": "596",
+      "name": "Porta Guardanapo"
+    },
+    {
+      "codigo": "597",
+      "name": "Jarra p/Água"
+    },
+    {
+      "codigo": "598",
+      "name": "Tábua de Vidro"
+    },
+    {
+      "codigo": "599",
+      "name": "Faca"
+    },
+    {
+      "codigo": "600",
+      "name": "Talher"
+    },
+    {
+      "codigo": "601",
+      "name": "Régua T"
+    },
+    {
+      "codigo": "602",
+      "name": "Frigideira"
+    },
+    {
+      "codigo": "603",
+      "name": "Luva de Silicone"
+    },
+    {
+      "codigo": "604",
+      "name": "Impressora LaserJet"
+    },
+    {
+      "codigo": "605",
+      "name": "Óleo de Peroba"
+    },
+    {
+      "codigo": "606",
+      "name": "Cotonete"
+    },
+    {
+      "codigo": "607",
+      "name": "Estilete Estreito"
+    },
+    {
+      "codigo": "608",
+      "name": "Perfurador 2 Furos"
+    },
+    {
+      "codigo": "609",
+      "name": "Cofre Eletrônico"
+    },
+    {
+      "codigo": "610",
+      "name": "Pano de Chão"
+    },
+    {
+      "codigo": "611",
+      "name": "DVD+R"
+    },
+    {
+      "codigo": "612",
+      "name": "DVD+RW"
+    },
+    {
+      "codigo": "613",
+      "name": "Pilha Pequena"
+    },
+    {
+      "codigo": "614",
+      "name": "Pilha Palito"
+    },
+    {
+      "codigo": "615",
+      "name": "Papel Criativo"
+    },
+    {
+      "codigo": "616",
+      "name": "Caixa de Papelão"
+    },
+    {
+      "codigo": "617",
+      "name": "Suporte p/Papel"
+    },
+    {
+      "codigo": "618",
+      "name": "Cabo Extensor"
+    },
+    {
+      "codigo": "619",
+      "name": "Mouse USB"
+    },
+    {
+      "codigo": "620",
+      "name": "Mouse PS/2"
+    },
+    {
+      "codigo": "621",
+      "name": "Filme p/ Alimentos"
+    },
+    {
+      "codigo": "622",
+      "name": "Papel A4"
+    },
+    {
+      "codigo": "623",
+      "name": "Estojo Escolar"
+    },
+    {
+      "codigo": "624",
+      "name": "Organizador de Mesa"
+    },
+    {
+      "codigo": "625",
+      "name": "Cola Líquida 100ml "
+    },
+    {
+      "codigo": "626",
+      "name": "Papel Celofane"
+    },
+    {
+      "codigo": "627",
+      "name": "Abridor de Latas/Garrafas"
+    },
+    {
+      "codigo": "628",
+      "name": "Porta Chaves"
+    },
+    {
+      "codigo": "629",
+      "name": "Colher de Sobremesa"
+    },
+    {
+      "codigo": "630",
+      "name": "Escova Dental"
+    },
+    {
+      "codigo": "631",
+      "name": "Paquímetro Plástico"
+    },
+    {
+      "codigo": "632",
+      "name": "Colher de mesa"
+    },
+    {
+      "codigo": "633",
+      "name": "Tábua"
+    },
+    {
+      "codigo": "634",
+      "name": "Porta Mantimentos"
+    },
+    {
+      "codigo": "635",
+      "name": "Forma Retângular"
+    },
+    {
+      "codigo": "636",
+      "name": "Capa de Chuva"
+    },
+    {
+      "codigo": "637",
+      "name": "Fita Auto Adesiva"
+    },
+    {
+      "codigo": "638",
+      "name": "Blu-Ray Filmes/Séries"
+    },
+    {
+      "codigo": "639",
+      "name": "Pasta c/Ziper"
+    },
+    {
+      "codigo": "640",
+      "name": "Copo Acrílico"
+    },
+    {
+      "codigo": "641",
+      "name": "Bandeja de plastico "
+    },
+    {
+      "codigo": "642",
+      "name": "Prato Fundo"
+    },
+    {
+      "codigo": "643",
+      "name": "Prato Raso"
+    },
+    {
+      "codigo": "644",
+      "name": "Gafo"
+    },
+    {
+      "codigo": "645",
+      "name": "Xicara"
+    },
+    {
+      "codigo": "646",
+      "name": "Tulipa"
+    },
+    {
+      "codigo": "647",
+      "name": "Bacia Quadrada"
+    },
+    {
+      "codigo": "648",
+      "name": "saleiro"
+    },
+    {
+      "codigo": "649",
+      "name": "Colher de Chá"
+    },
+    {
+      "codigo": "650",
+      "name": "Pedra"
+    },
+    {
+      "codigo": "651",
+      "name": "Gabarito Circulógrafo"
+    },
+    {
+      "codigo": "652",
+      "name": "Cabeça de Impressão"
+    },
+    {
+      "codigo": "653",
+      "name": "Rodo Poliuretano"
+    },
+    {
+      "codigo": "654",
+      "name": "Cesto Telado"
+    },
+    {
+      "codigo": "655",
+      "name": "Removedor de Cera"
+    },
+    {
+      "codigo": "656",
+      "name": "Pasta L"
+    },
+    {
+      "codigo": "657",
+      "name": "Lixeira c/Roda"
+    },
+    {
+      "codigo": "658",
+      "name": "Pasta Portifólio"
+    },
+    {
+      "codigo": "659",
+      "name": "Calculadora de Bolso"
+    },
+    {
+      "codigo": "660",
+      "name": "Pasta Malote"
+    },
+    {
+      "codigo": "661",
+      "name": "Refil p/Trena"
+    },
+    {
+      "codigo": "662",
+      "name": "Leite"
+    },
+    {
+      "codigo": "663",
+      "name": "Tesoura Escolar"
+    },
+    {
+      "codigo": "664",
+      "name": "Tesoura Artística"
+    },
+    {
+      "codigo": "665",
+      "name": "Esquadro/Tranferidor"
+    },
+    {
+      "codigo": "666",
+      "name": "Bomba p/Encher Balão"
+    },
+    {
+      "codigo": "667",
+      "name": "Capa p/Encadernação"
+    },
+    {
+      "codigo": "668",
+      "name": "Caneta Hidrográfica"
+    },
+    {
+      "codigo": "669",
+      "name": "Giz de Cera"
+    },
+    {
+      "codigo": "670",
+      "name": "Gizão de Cera"
+    },
+    {
+      "codigo": "671",
+      "name": "Clips Latonado"
+    },
+    {
+      "codigo": "672",
+      "name": "Apontador de Mesa"
+    },
+    {
+      "codigo": "673",
+      "name": "Refil p/Mop"
+    },
+    {
+      "codigo": "674",
+      "name": "Tinta p/Escrita"
+    },
+    {
+      "codigo": "675",
+      "name": "Escova Sanitária"
+    },
+    {
+      "codigo": "676",
+      "name": "Repelex"
+    },
+    {
+      "codigo": "677",
+      "name": "Mapa"
+    },
+    {
+      "codigo": "678",
+      "name": "Filtro"
+    },
+    {
+      "codigo": "679",
+      "name": "Hd Externo"
+    },
+    {
+      "codigo": "680",
+      "name": "Pasta P/Notebook"
+    },
+    {
+      "codigo": "681",
+      "name": "Cabo USB"
+    },
+    {
+      "codigo": "682",
+      "name": "Prendedor de Papel"
+    },
+    {
+      "codigo": "683",
+      "name": "Suporte p/Pés"
+    },
+    {
+      "codigo": "684",
+      "name": "Cinta de Segurança"
+    },
+    {
+      "codigo": "685",
+      "name": "Suporte p/Teclado"
+    },
+    {
+      "codigo": "686",
+      "name": "Fita p/Crachá"
+    },
+    {
+      "codigo": "687",
+      "name": "Transformador"
+    },
+    {
+      "codigo": "688",
+      "name": "Nugget"
+    },
+    {
+      "codigo": "689",
+      "name": "Cronômetro Profissional"
+    },
+    {
+      "codigo": "690",
+      "name": "Copo de Vidro"
+    },
+    {
+      "codigo": "691",
+      "name": "Caneta c/Marcador"
+    },
+    {
+      "codigo": "692",
+      "name": "Colher Descartável"
+    },
+    {
+      "codigo": "693",
+      "name": "Pastel à Óleo"
+    },
+    {
+      "codigo": "694",
+      "name": "Pastel Seco"
+    },
+    {
+      "codigo": "695",
+      "name": "Balde c/Alça"
+    },
+    {
+      "codigo": "696",
+      "name": "Papel Colorplac"
+    },
+    {
+      "codigo": "697",
+      "name": "Assento Sanitário"
+    },
+    {
+      "codigo": "698",
+      "name": "Pote p/Alimentos"
+    },
+    {
+      "codigo": "699",
+      "name": "Papel p/Maquete"
+    },
+    {
+      "codigo": "700",
+      "name": "Polyester"
+    },
+    {
+      "codigo": "701",
+      "name": "Bambolê"
+    },
+    {
+      "codigo": "702",
+      "name": "Bola Plástica"
+    },
+    {
+      "codigo": "703",
+      "name": "Bola c/Corda"
+    },
+    {
+      "codigo": "704",
+      "name": "Cola Colorida"
+    },
+    {
+      "codigo": "705",
+      "name": "Grampo Galvanizado"
+    },
+    {
+      "codigo": "706",
+      "name": "Pano"
+    },
+    {
+      "codigo": "707",
+      "name": "Tubotec"
+    },
+    {
+      "codigo": "708",
+      "name": "Corrente"
+    },
+    {
+      "codigo": "709",
+      "name": "Poste"
+    },
+    {
+      "codigo": "710",
+      "name": "Cone"
+    },
+    {
+      "codigo": "711",
+      "name": "Cola p/Tecido"
+    },
+    {
+      "codigo": "712",
+      "name": "Pasta p/Modelagem"
+    },
+    {
+      "codigo": "713",
+      "name": "Espatula de Pedreiro"
+    },
+    {
+      "codigo": "714",
+      "name": "Funil"
+    },
+    {
+      "codigo": "715",
+      "name": "Tabuada"
+    },
+    {
+      "codigo": "716",
+      "name": "Caligrafia"
+    },
+    {
+      "codigo": "717",
+      "name": "Pá de Lixo"
+    },
+    {
+      "codigo": "718",
+      "name": "Isqueiro"
+    },
+    {
+      "codigo": "719",
+      "name": "Garfo Descartável"
+    },
+    {
+      "codigo": "720",
+      "name": "Extensão"
+    },
+    {
+      "codigo": "721",
+      "name": "Tinta/Base"
+    },
+    {
+      "codigo": "722",
+      "name": "Tinta p/Tecido"
+    },
+    {
+      "codigo": "723",
+      "name": "Tinta p/Artesanato"
+    },
+    {
+      "codigo": "724",
+      "name": "Naftalina"
+    },
+    {
+      "codigo": "725",
+      "name": "Desenhos Artisticos"
+    },
+    {
+      "codigo": "726",
+      "name": "Esfregão"
+    },
+    {
+      "codigo": "727",
+      "name": "Desentupidor de Pia"
+    },
+    {
+      "codigo": "728",
+      "name": "Cafeteira"
+    },
+    {
+      "codigo": "729",
+      "name": "Presilha"
+    },
+    {
+      "codigo": "730",
+      "name": "Gravador de Voz"
+    },
+    {
+      "codigo": "731",
+      "name": "Grampo Plástico"
+    },
+    {
+      "codigo": "732",
+      "name": "Apoio p/Perfuração"
+    },
+    {
+      "codigo": "733",
+      "name": "Calculadora Pessoal"
+    },
+    {
+      "codigo": "734",
+      "name": "Rolo"
+    },
+    {
+      "codigo": "735",
+      "name": "Gancho"
+    },
+    {
+      "codigo": "736",
+      "name": "Suporte p/Quadro"
+    },
+    {
+      "codigo": "737",
+      "name": "Pasta 3 Argolas"
+    },
+    {
+      "codigo": "738",
+      "name": "Avental em Napa"
+    },
+    {
+      "codigo": "739",
+      "name": "Saponáceo Liquido"
+    },
+    {
+      "codigo": "740",
+      "name": "Régua Inox"
+    },
+    {
+      "codigo": "741",
+      "name": "Cesto c/Tampa"
+    },
+    {
+      "codigo": "742",
+      "name": "Espanador de Mão"
+    },
+    {
+      "codigo": "743",
+      "name": "Grampo Colorido"
+    },
+    {
+      "codigo": "744",
+      "name": "Água Mineral"
+    },
+    {
+      "codigo": "745",
+      "name": "Índice Telefonico"
+    },
+    {
+      "codigo": "746",
+      "name": "Porta Bloco"
+    },
+    {
+      "codigo": "747",
+      "name": "Quadro Expositor"
+    },
+    {
+      "codigo": "748",
+      "name": "Suporte Escaninho"
+    },
+    {
+      "codigo": "749",
+      "name": "Pilha Média"
+    },
+    {
+      "codigo": "750",
+      "name": "Paliteiro"
+    },
+    {
+      "codigo": "751",
+      "name": "Pastilha Sanitária"
+    },
+    {
+      "codigo": "752",
+      "name": "Gabarito Plástico"
+    },
+    {
+      "codigo": "753",
+      "name": "Pallet Plástico"
+    },
+    {
+      "codigo": "754",
+      "name": "Lona"
+    },
+    {
+      "codigo": "755",
+      "name": "Papel Revestido"
+    },
+    {
+      "codigo": "756",
+      "name": "Lixa Multiuso"
+    },
+    {
+      "codigo": "757",
+      "name": "Pasta Clen"
+    },
+    {
+      "codigo": "758",
+      "name": "Faça Bolinhas"
+    },
+    {
+      "codigo": "759",
+      "name": "Creme Dental"
+    },
+    {
+      "codigo": "760",
+      "name": "Tinta p/Tela"
+    },
+    {
+      "codigo": "761",
+      "name": "Divisória"
+    },
+    {
+      "codigo": "762",
+      "name": "Chuveiro"
+    },
+    {
+      "codigo": "763",
+      "name": "Saco de Ráfia"
+    },
+    {
+      "codigo": "764",
+      "name": "Envelope Vai e Vem"
+    },
+    {
+      "codigo": "765",
+      "name": "Maleta c/ Ziper"
+    },
+    {
+      "codigo": "766",
+      "name": "Caneta Gel"
+    },
+    {
+      "codigo": "767",
+      "name": "Maleta c/ Alça"
+    },
+    {
+      "codigo": "768",
+      "name": "Pasta C/Aba e Elastico"
+    },
+    {
+      "codigo": "769",
+      "name": "Régua p/ Corte e Costura"
+    },
+    {
+      "codigo": "770",
+      "name": "Esfuminho N°1"
+    },
+    {
+      "codigo": "771",
+      "name": "Pasta Congresso"
+    },
+    {
+      "codigo": "772",
+      "name": "Sabão Líquido"
+    },
+    {
+      "codigo": "773",
+      "name": "Papel Madeira"
+    },
+    {
+      "codigo": "774",
+      "name": "Avulso"
+    },
+    {
+      "codigo": "775",
+      "name": "Haste"
+    },
+    {
+      "codigo": "776",
+      "name": "Cabide"
+    },
+    {
+      "codigo": "777",
+      "name": "Rodo Plástico"
+    },
+    {
+      "codigo": "778",
+      "name": "Escova plástica"
+    },
+    {
+      "codigo": "779",
+      "name": "Escova de madeira"
+    },
+    {
+      "codigo": "780",
+      "name": "Baralho"
+    },
+    {
+      "codigo": "781",
+      "name": "Palito de Picolé"
+    },
+    {
+      "codigo": "782",
+      "name": "Computador p/ Navegação"
+    },
+    {
+      "codigo": "783",
+      "name": "Curva Francesa"
+    },
+    {
+      "codigo": "784",
+      "name": "Escada de Aluminio"
+    },
+    {
+      "codigo": "785",
+      "name": "Bloco P/Fichario"
+    },
+    {
+      "codigo": "786",
+      "name": "Bloco p/Desenho"
+    },
+    {
+      "codigo": "787",
+      "name": "Bloco Lay Out"
+    },
+    {
+      "codigo": "788",
+      "name": "Bloco Quadriculado"
+    },
+    {
+      "codigo": "789",
+      "name": "Bloco de Chão"
+    },
+    {
+      "codigo": "790",
+      "name": "Bloco Esboço"
+    },
+    {
+      "codigo": "791",
+      "name": "Cavalete Tubolar"
+    },
+    {
+      "codigo": "792",
+      "name": "Detergente 500ml"
+    },
+    {
+      "codigo": "793",
+      "name": "Amaciante 1 Litro"
+    },
+    {
+      "codigo": "794",
+      "name": "Desinfetante 5 Litros"
+    },
+    {
+      "codigo": "795",
+      "name": "Detergente 5 Litros"
+    },
+    {
+      "codigo": "796",
+      "name": "Detergente 100ml"
+    },
+    {
+      "codigo": "797",
+      "name": "Detergente 20Lts"
+    },
+    {
+      "codigo": "798",
+      "name": "Detergente 2Lts"
+    },
+    {
+      "codigo": "799",
+      "name": "Tesoura Profissional"
+    },
+    {
+      "codigo": "800",
+      "name": "Tesoura p/Corte e Costura"
+    },
+    {
+      "codigo": "801",
+      "name": "Fita p/Empacotamento"
+    },
+    {
+      "codigo": "802",
+      "name": "Correia"
+    },
+    {
+      "codigo": "803",
+      "name": "Corda de Nylon"
+    },
+    {
+      "codigo": "804",
+      "name": "Colete Salva Vidas"
+    },
+    {
+      "codigo": "805",
+      "name": "Fita Mágia"
+    },
+    {
+      "codigo": "806",
+      "name": "Fita Invisivel"
+    },
+    {
+      "codigo": "807",
+      "name": "Fita em PVC"
+    },
+    {
+      "codigo": "808",
+      "name": "Fita em Polipropileno"
+    },
+    {
+      "codigo": "809",
+      "name": "Manequim Corpo Inteiro"
+    },
+    {
+      "codigo": "810",
+      "name": "Caneta Caligraphy"
+    },
+    {
+      "codigo": "811",
+      "name": "Lápis Aquarela Ind."
+    },
+    {
+      "codigo": "812",
+      "name": "Estojo p/Mina"
+    },
+    {
+      "codigo": "813",
+      "name": "Ciscador c/Cabo"
+    },
+    {
+      "codigo": "814",
+      "name": "Limpador p/Porcelanatos "
+    },
+    {
+      "codigo": "815",
+      "name": "Cortina p/Banho"
+    },
+    {
+      "codigo": "1001",
+      "name": "Tampa Plastica"
+    },
+    {
+      "codigo": "1212",
+      "name": "Seringa"
+    },
+    {
+      "codigo": "1213",
+      "name": "Tapete"
+    },
+    {
+      "codigo": "1214",
+      "name": "Saco P/Presente"
+    },
+    {
+      "codigo": "1215",
+      "name": "Papel Vivaldi"
+    },
+    {
+      "codigo": "1216",
+      "name": "Lapiseira 0.7"
+    },
+    {
+      "codigo": "1217",
+      "name": "Lapiseira 0.9"
+    },
+    {
+      "codigo": "1218",
+      "name": "Lapiseira 0.3"
+    },
+    {
+      "codigo": "1219",
+      "name": "Mina 0.7"
+    },
+    {
+      "codigo": "1220",
+      "name": "Mina 0.9"
+    },
+    {
+      "codigo": "1221",
+      "name": "Mina 0.3"
+    },
+    {
+      "codigo": "1222",
+      "name": "Mina Pitt Carvão"
+    },
+    {
+      "codigo": "1223",
+      "name": "Caderno 60Fls"
+    },
+    {
+      "codigo": "1224",
+      "name": "Caderno 12 Materias"
+    },
+    {
+      "codigo": "1225",
+      "name": "Caderno 15 Materias"
+    },
+    {
+      "codigo": "1226",
+      "name": "Caderno 20 Materias"
+    },
+    {
+      "codigo": "1227",
+      "name": "Caderno ¼ "
+    },
+    {
+      "codigo": "1228",
+      "name": "Caderno Organizer/Reunião"
+    },
+    {
+      "codigo": "1229",
+      "name": "Caderno de Recado"
+    },
+    {
+      "codigo": "1230",
+      "name": "Caderno 48Fls"
+    },
+    {
+      "codigo": "1231",
+      "name": "Pasta 4 Argolas"
+    },
+    {
+      "codigo": "1232",
+      "name": "Cavadeira"
+    },
+    {
+      "codigo": "1233",
+      "name": "Rádio de Comunicação"
+    },
+    {
+      "codigo": "1234",
+      "name": "Cola em Fita"
+    },
+    {
+      "codigo": "1235",
+      "name": "Cadeira"
+    },
+    {
+      "codigo": "1236",
+      "name": "Pasta Dental"
+    },
+    {
+      "codigo": "1238",
+      "name": "Shampoo"
+    },
+    {
+      "codigo": "1239",
+      "name": "Condicionador"
+    },
+    {
+      "codigo": "1240",
+      "name": "Molho de Pimenta"
+    },
+    {
+      "codigo": "1241",
+      "name": "Creme Hidratante"
+    },
+    {
+      "codigo": "1242",
+      "name": "Sombrinha"
+    },
+    {
+      "codigo": "1243",
+      "name": "Extensor p/Lápis"
+    },
+    {
+      "codigo": "1244",
+      "name": "Pasta Formulário"
+    },
+    {
+      "codigo": "1245",
+      "name": "EVA c/Glitter"
+    },
+    {
+      "codigo": "1246",
+      "name": "EVA Atoalhado"
+    },
+    {
+      "codigo": "1309",
+      "name": "Caderno Cartografia"
+    },
+    {
+      "codigo": "1821",
+      "name": "Telefone sem Fio"
+    },
+    {
+      "codigo": "1822",
+      "name": "Toalha de Rosto"
+    },
+    {
+      "codigo": "1823",
+      "name": "Papel Glossy"
+    },
+    {
+      "codigo": "1824",
+      "name": "Extrator Espatula"
+    },
+    {
+      "codigo": "1825",
+      "name": "Chaleira"
+    },
+    {
+      "codigo": "1826",
+      "name": "Açucareiro"
+    },
+    {
+      "codigo": "1827",
+      "name": "Suporte p/ Pincéis"
+    },
+    {
+      "codigo": "1828",
+      "name": "Cartão Laminado"
+    },
+    {
+      "codigo": "1829",
+      "name": "Impermeabilizante"
+    },
+    {
+      "codigo": "1830",
+      "name": "Higienizador de mãos"
+    },
+    {
+      "codigo": "1831",
+      "name": "Limpa Vidro"
+    },
+    {
+      "codigo": "1832",
+      "name": "Multiuso"
+    },
+    {
+      "codigo": "1833",
+      "name": "Limpador Gel"
+    },
+    {
+      "codigo": "1834",
+      "name": "Removedor de Cera"
+    },
+    {
+      "codigo": "1835",
+      "name": "Limpa Ceramica"
+    },
+    {
+      "codigo": "1836",
+      "name": "Xícara de chá"
+    },
+    {
+      "codigo": "1837",
+      "name": "Xícara de Café"
+    },
+    {
+      "codigo": "1838",
+      "name": "Bisnaga para condimento"
+    },
+    {
+      "codigo": "1839",
+      "name": "Refil para Reservatorio"
+    },
+    {
+      "codigo": "1840",
+      "name": "Selador"
+    },
+    {
+      "codigo": "1841",
+      "name": "Lâmpada Incandescente"
+    },
+    {
+      "codigo": "1842",
+      "name": "Cordão P/Crachá"
+    },
+    {
+      "codigo": "1843",
+      "name": "Pasta para Modelagem"
+    },
+    {
+      "codigo": "1844",
+      "name": "Bloco Lembrete"
+    },
+    {
+      "codigo": "1845",
+      "name": "Capa p/ Encadernação"
+    },
+    {
+      "codigo": "1846",
+      "name": "Cesto p/ Lixo"
+    },
+    {
+      "codigo": "1847",
+      "name": "Clips Removível"
+    },
+    {
+      "codigo": "1848",
+      "name": "Crachá p/ Indentidade"
+    },
+    {
+      "codigo": "1849",
+      "name": "Divisória p/ Fichário"
+    },
+    {
+      "codigo": "1850",
+      "name": "Contador de Metal"
+    },
+    {
+      "codigo": "1851",
+      "name": "Estojo p/Maquiagem"
+    },
+    {
+      "codigo": "1852",
+      "name": "Corda p/Varal"
+    },
+    {
+      "codigo": "1853",
+      "name": "Varal de ferro"
+    },
+    {
+      "codigo": "1854",
+      "name": "Sachê perfumado"
+    },
+    {
+      "codigo": "1855",
+      "name": "Chá"
+    },
+    {
+      "codigo": "1856",
+      "name": "Papel Reciclado"
+    },
+    {
+      "codigo": "1857",
+      "name": "Parafuso"
+    },
+    {
+      "codigo": "1858",
+      "name": "Isopor"
+    },
+    {
+      "codigo": "1859",
+      "name": "Cadarço"
+    },
+    {
+      "codigo": "1860",
+      "name": "Aplicador de cera"
+    },
+    {
+      "codigo": "1861",
+      "name": "Plastico Bolha"
+    },
+    {
+      "codigo": "1862",
+      "name": "Medalha"
+    },
+    {
+      "codigo": "1863",
+      "name": "Termolina"
+    },
+    {
+      "codigo": "1864",
+      "name": "Estopa"
+    },
+    {
+      "codigo": "1865",
+      "name": "Tabela"
+    },
+    {
+      "codigo": "1866",
+      "name": "Palete de Madeira"
+    },
+    {
+      "codigo": "1867",
+      "name": "Foguete"
+    },
+    {
+      "codigo": "1868",
+      "name": "Glitter"
+    },
+    {
+      "codigo": "1869",
+      "name": "Pistola p/ Cola Quente"
+    },
+    {
+      "codigo": "1870",
+      "name": "Buzina de Ar"
+    },
+    {
+      "codigo": "1871",
+      "name": "Apagador P/Lousa"
+    },
+    {
+      "codigo": "1872",
+      "name": "Betume"
+    },
+    {
+      "codigo": "1873",
+      "name": "Agulha Ponta Seca"
+    },
+    {
+      "codigo": "1874",
+      "name": "Touca Descartável"
+    },
+    {
+      "codigo": "1875",
+      "name": "Marca Texto"
+    },
+    {
+      "codigo": "1876",
+      "name": "Marcador Permanente"
+    },
+    {
+      "codigo": "1877",
+      "name": "Conj. de Desenho Escolar"
+    },
+    {
+      "codigo": "1878",
+      "name": "Marcador de Barras"
+    },
+    {
+      "codigo": "1879",
+      "name": "Arquivo Morto Papelão"
+    },
+    {
+      "codigo": "1880",
+      "name": "Pasta Susp. Plástica"
+    },
+    {
+      "codigo": "1881",
+      "name": "Pasta Susp. Papelão"
+    },
+    {
+      "codigo": "1882",
+      "name": "Desinfetante 2 Litros"
+    },
+    {
+      "codigo": "1883",
+      "name": "Saponáceo Pó"
+    },
+    {
+      "codigo": "1884",
+      "name": "Tela Odorizada p/Mictório"
+    },
+    {
+      "codigo": "1885",
+      "name": "Gás Nitrogênio"
+    },
+    {
+      "codigo": "1886",
+      "name": "Gás Hélio"
+    },
+    {
+      "codigo": "1887",
+      "name": "Pano Multiuso"
+    },
+    {
+      "codigo": "1888",
+      "name": "Luva de Algodão"
+    },
+    {
+      "codigo": "1889",
+      "name": "Luva de Látex"
+    },
+    {
+      "codigo": "1890",
+      "name": "Luva Nitrílica"
+    },
+    {
+      "codigo": "1891",
+      "name": "Binóculo"
+    },
+    {
+      "codigo": "1892",
+      "name": "Megafone"
+    },
+    {
+      "codigo": "1893",
+      "name": "Manequim de Mão"
+    },
+    {
+      "codigo": "1894",
+      "name": "Mangueira"
+    },
+    {
+      "codigo": "1895",
+      "name": "Aquarela"
+    },
+    {
+      "codigo": "1896",
+      "name": "Margarina"
+    },
+    {
+      "codigo": "1897",
+      "name": "Reservatório de Vidro"
+    },
+    {
+      "codigo": "1898",
+      "name": "Case p/Tablets"
+    },
+    {
+      "codigo": "1899",
+      "name": "Capa p/Iphone"
+    },
+    {
+      "codigo": "1900",
+      "name": "Pasta Tipo Maleta"
+    },
+    {
+      "codigo": "1901",
+      "name": "Pasta Tipo Prancheta"
+    },
+    {
+      "codigo": "1902",
+      "name": "Umidificar de Ar"
+    },
+    {
+      "codigo": "1903",
+      "name": "Cilindro"
+    },
+    {
+      "codigo": "1904",
+      "name": "Suporte p/Bandeira"
+    },
+    {
+      "codigo": "1905",
+      "name": "Silicone Liquido"
+    },
+    {
+      "codigo": "1906",
+      "name": "Roteador"
+    },
+    {
+      "codigo": "1907",
+      "name": "Cartaz Duplex"
+    },
+    {
+      "codigo": "1908",
+      "name": "Ponteira p/Pincel"
+    },
+    {
+      "codigo": "1909",
+      "name": "Cloro"
+    },
+    {
+      "codigo": "1910",
+      "name": "Purpurina"
+    },
+    {
+      "codigo": "1911",
+      "name": "Amido de Milho"
+    },
+    {
+      "codigo": "1912",
+      "name": "Lousa"
+    },
+    {
+      "codigo": "1913",
+      "name": "Painel Metálico"
+    },
+    {
+      "codigo": "1914",
+      "name": "Painel em Cortiça"
+    },
+    {
+      "codigo": "1915",
+      "name": "Corta Circulo "
+    },
+    {
+      "codigo": "1916",
+      "name": "Caneta Borracha"
+    },
+    {
+      "codigo": "1917",
+      "name": "Tecido p/Tela"
+    },
+    {
+      "codigo": "1918",
+      "name": "Arquivo p/Pasta Susp."
+    },
+    {
+      "codigo": "1919",
+      "name": "Arquivo p/Chave"
+    },
+    {
+      "codigo": "1920",
+      "name": "Tinta Plástica"
+    },
+    {
+      "codigo": "1921",
+      "name": "Tinta Facial"
+    },
+    {
+      "codigo": "1922",
+      "name": "Estojo Artistico"
+    },
+    {
+      "codigo": "1923",
+      "name": "Estojo Universitário"
+    },
+    {
+      "codigo": "1924",
+      "name": "Porta Pincel Decorado"
+    },
+    {
+      "codigo": "1925",
+      "name": "Porta Pincel Envelope"
+    },
+    {
+      "codigo": "1926",
+      "name": "Vareta Fenolite"
+    },
+    {
+      "codigo": "1927",
+      "name": "Barbeador"
+    },
+    {
+      "codigo": "1928",
+      "name": "Gabarito para corte"
+    },
+    {
+      "codigo": "1929",
+      "name": "Camisa"
+    },
+    {
+      "codigo": "1930",
+      "name": "Avental de Algodão"
+    },
+    {
+      "codigo": "1931",
+      "name": "Barril"
+    },
+    {
+      "codigo": "1932",
+      "name": "Frasqueira"
+    },
+    {
+      "codigo": "1933",
+      "name": "Mexedor p/Drinks e Café"
+    },
+    {
+      "codigo": "1934",
+      "name": "Caderno Brochura"
+    },
+    {
+      "codigo": "1935",
+      "name": "Recipiente Plastico"
+    },
+    {
+      "codigo": "1936",
+      "name": "Transfer p/Camiseta"
+    },
+    {
+      "codigo": "1937",
+      "name": "Cooktop"
+    },
+    {
+      "codigo": "1938",
+      "name": "Pasta p/Vai-Vem"
+    },
+    {
+      "codigo": "1939",
+      "name": "Linha p/Croche"
+    },
+    {
+      "codigo": "1940",
+      "name": "Refil p/Borracha"
+    },
+    {
+      "codigo": "1941",
+      "name": "Bloco Milimetrado"
+    },
+    {
+      "codigo": "1942",
+      "name": "Bloco de Papel Vegetal"
+    },
+    {
+      "codigo": "1943",
+      "name": "Bloco de Papel Manteiga"
+    },
+    {
+      "codigo": "1944",
+      "name": "Pote Plástico"
+    },
+    {
+      "codigo": "1945",
+      "name": "Persiana PVC"
+    },
+    {
+      "codigo": "1946",
+      "name": "Palito de Madeira"
+    },
+    {
+      "codigo": "1947",
+      "name": "Vaso de barro"
+    },
+    {
+      "codigo": "1948",
+      "name": "Caixa"
+    },
+    {
+      "codigo": "1949",
+      "name": "Cola P/Isopor 80g"
+    },
+    {
+      "codigo": "1950",
+      "name": "Cola em Gel"
+    },
+    {
+      "codigo": "1951",
+      "name": "Stencil"
+    },
+    {
+      "codigo": "1952",
+      "name": "Porta Corresp. Simples"
+    },
+    {
+      "codigo": "1953",
+      "name": "Porta Corresp. Dupla"
+    },
+    {
+      "codigo": "1954",
+      "name": "Porta Corresp. Triplo"
+    },
+    {
+      "codigo": "1955",
+      "name": "Porta Lápis"
+    },
+    {
+      "codigo": "1956",
+      "name": "Vassourinha"
+    },
+    {
+      "codigo": "1957",
+      "name": "Pressão de Pedestal"
+    },
+    {
+      "codigo": "1958",
+      "name": "Promotor de Aderencia"
+    },
+    {
+      "codigo": "1959",
+      "name": "Soro Fisiológico"
+    },
+    {
+      "codigo": "1960",
+      "name": "Mina Hexagonal"
+    },
+    {
+      "codigo": "1961",
+      "name": "Porta Retrato"
+    },
+    {
+      "codigo": "1962",
+      "name": "Papel Transfer "
+    },
+    {
+      "codigo": "1963",
+      "name": "Espremedor p/ balde"
+    },
+    {
+      "codigo": "1964",
+      "name": "Pasta L  A3 "
+    },
+    {
+      "codigo": "1965",
+      "name": "Pasta Protetor d Doc"
+    },
+    {
+      "codigo": "1966",
+      "name": "Capa p/ Aplicador Cera"
+    },
+    {
+      "codigo": "1967",
+      "name": "Caderno  80 Fls"
+    },
+    {
+      "codigo": "1968",
+      "name": "Caderno 90 Fls"
+    },
+    {
+      "codigo": "1969",
+      "name": "Caderno 120 Fls "
+    },
+    {
+      "codigo": "1970",
+      "name": "Caderno 50 Fls "
+    },
+    {
+      "codigo": "1971",
+      "name": "Base Corte"
+    },
+    {
+      "codigo": "1972",
+      "name": "Gode Plast"
+    },
+    {
+      "codigo": "1973",
+      "name": "Mina 5,6 mm"
+    },
+    {
+      "codigo": "1974",
+      "name": "Sacola da Papel"
+    },
+    {
+      "codigo": "1975",
+      "name": "Laço Facil"
+    },
+    {
+      "codigo": "1976",
+      "name": "Conjunto Caneta+Lapiseira"
+    },
+    {
+      "codigo": "1977",
+      "name": "Estante p/ Escritorio"
+    },
+    {
+      "codigo": "1978",
+      "name": "Argila"
+    },
+    {
+      "codigo": "1979",
+      "name": "Massa Biscuit "
+    },
+    {
+      "codigo": "1980",
+      "name": "Maleta  do Artesão "
+    },
+    {
+      "codigo": "1981",
+      "name": "Livro p/Colorir"
+    },
+    {
+      "codigo": "816",
+      "name": "Dispensador de Post-it"
+    },
+    {
+      "codigo": "1982",
+      "name": "Caneta Luxo"
+    },
+    {
+      "codigo": "1983",
+      "name": "Tinta p/Xilografia"
+    },
+    {
+      "codigo": "1984",
+      "name": "Toalheiro em Aço"
+    },
+    {
+      "codigo": "1985",
+      "name": "Poliestireno"
+    },
+    {
+      "codigo": "1986",
+      "name": "Removedor P/ Emulsão"
+    },
+    {
+      "codigo": "1987",
+      "name": "Pasta c/Zip"
+    },
+    {
+      "codigo": "1988",
+      "name": "Kit p/Presente"
+    },
+    {
+      "codigo": "1989",
+      "name": "Tinta Verniz"
+    },
+    {
+      "codigo": "1990",
+      "name": "Caneta Point"
+    },
+    {
+      "codigo": "1991",
+      "name": "Pincel c/Ponta Sintetica"
+    },
+    {
+      "codigo": "1992",
+      "name": "Caixa Correspondência"
+    },
+    {
+      "codigo": "1993",
+      "name": "Dispensador p/Refil"
+    },
+    {
+      "codigo": "1994",
+      "name": "Sabonete Espuma"
+    },
+    {
+      "codigo": "1995",
+      "name": "Caneta Tinteiro"
+    },
+    {
+      "codigo": "1996",
+      "name": "Cabo p/ Pena"
+    },
+    {
+      "codigo": "1997",
+      "name": "Estilete de Precisão"
+    },
+    {
+      "codigo": "1998",
+      "name": "Lápis Colorido "
+    },
+    {
+      "codigo": "1999",
+      "name": "Lápis Carvão"
+    },
+    {
+      "codigo": "2000",
+      "name": "Lapis Borracha"
+    },
+    {
+      "codigo": "2001",
+      "name": "Caneta Nankin Descartavel"
+    },
+    {
+      "codigo": "2002",
+      "name": "Tinta P/Pincel Quadro Bra"
+    },
+    {
+      "codigo": "2003",
+      "name": "Borracha Maleavel"
+    },
+    {
+      "codigo": "2004",
+      "name": "Mina 2,0 mm"
+    },
+    {
+      "codigo": "2005",
+      "name": "Giz Aquarelável"
+    },
+    {
+      "codigo": "2006",
+      "name": "Papel Mi-Teintes"
+    },
+    {
+      "codigo": "818",
+      "name": "Toalha Magica"
+    },
+    {
+      "codigo": "819",
+      "name": "Etiquetadora"
+    },
+    {
+      "codigo": "2007",
+      "name": "Sanitizante"
+    },
+    {
+      "codigo": "991",
+      "name": "Scanner"
+    },
+    {
+      "codigo": "2008",
+      "name": "Caderno 10 Materias"
+    },
+    {
+      "codigo": "2009",
+      "name": "Recibo de Aluguel "
+    },
+    {
+      "codigo": "2010",
+      "name": "Flotador"
+    },
+    {
+      "codigo": "2011",
+      "name": "Limpa Pedra"
+    },
+    {
+      "codigo": "2012",
+      "name": "Limpador Pós Obra"
+    },
+    {
+      "codigo": "817",
+      "name": "Disco Limpador"
+    },
+    {
+      "codigo": "2013",
+      "name": "Cera Acrilica"
+    },
+    {
+      "codigo": "820",
+      "name": "Papel Sulfite Colorido"
+    },
+    {
+      "codigo": "821",
+      "name": "Luva Microfibra"
+    },
+    {
+      "codigo": "822",
+      "name": "Saca-Rolha"
+    },
+    {
+      "codigo": "823",
+      "name": "Formulário Geométrico"
+    },
+    {
+      "codigo": "2014",
+      "name": "Pote de Vidro"
+    },
+    {
+      "codigo": "2015",
+      "name": "Desincrustante"
+    },
+    {
+      "codigo": "824",
+      "name": "Descarbonizante "
+    },
+    {
+      "codigo": "825",
+      "name": "Palito Fosforo "
+    },
+    {
+      "codigo": "826",
+      "name": "Regulador"
+    },
+    {
+      "codigo": "827",
+      "name": "Acendedor"
+    },
+    {
+      "codigo": "828",
+      "name": "Cordão"
+    },
+    {
+      "codigo": "829",
+      "name": "Marmitex"
+    },
+    {
+      "codigo": "2016",
+      "name": "Amostra"
+    },
+    {
+      "codigo": "2017",
+      "name": "Luva Vinil"
+    },
+    {
+      "codigo": "2018",
+      "name": "Luva Plastica"
+    },
+    {
+      "codigo": "2019",
+      "name": "Tabuleiro"
+    },
+    {
+      "codigo": "2020",
+      "name": "EVA Liso"
+    },
+    {
+      "codigo": "2021",
+      "name": "Desinfetante 140ml"
+    },
+    {
+      "codigo": "2022",
+      "name": "Tecido Lycra"
+    },
+    {
+      "codigo": "830",
+      "name": "Saco Leitoso"
+    },
+    {
+      "codigo": "2023",
+      "name": "Abraçadeira de Nylon"
+    },
+    {
+      "codigo": "2024",
+      "name": "Achocolatado 400g"
+    },
+    {
+      "codigo": "2025",
+      "name": "Apoio p/Punho"
+    },
+    {
+      "codigo": "2026",
+      "name": "Barbante de Algodão"
+    },
+    {
+      "codigo": "2027",
+      "name": "Caderneta CD"
+    },
+    {
+      "codigo": "2028",
+      "name": "Caderneta de Alinhamento"
+    },
+    {
+      "codigo": "2029",
+      "name": "Caderno Música"
+    },
+    {
+      "codigo": "2030",
+      "name": "Caderno Elem 200Fls"
+    },
+    {
+      "codigo": "2031",
+      "name": "Caderno de 240Fls"
+    },
+    {
+      "codigo": "2032",
+      "name": "Caneta Pitt Brush"
+    },
+    {
+      "codigo": "2034",
+      "name": "Cola líquida 1Kg"
+    },
+    {
+      "codigo": "2035",
+      "name": "Cola líqui. Bran. 40g"
+    },
+    {
+      "codigo": "2036",
+      "name": "Cola Colorida 23g"
+    },
+    {
+      "codigo": "2037",
+      "name": "Cola de Isopor 40g "
+    },
+    {
+      "codigo": "2038",
+      "name": "Cola em Bastão Grosso"
+    },
+    {
+      "codigo": "2039",
+      "name": "Cola líquida 60ml"
+    },
+    {
+      "codigo": "2040",
+      "name": "Cola Líquida 250ml"
+    },
+    {
+      "codigo": "2041",
+      "name": "Cola em Bastão 10g"
+    },
+    {
+      "codigo": "2042",
+      "name": "Cola Bastão 10g Leo&leo"
+    },
+    {
+      "codigo": "2043",
+      "name": "Cola em Bastão 20g"
+    },
+    {
+      "codigo": "2044",
+      "name": "Cola em Bastão 21g"
+    },
+    {
+      "codigo": "2045",
+      "name": "Cola Bastão 21g Leo&leo"
+    },
+    {
+      "codigo": "2046",
+      "name": "Cola Bastão 21g Stick"
+    },
+    {
+      "codigo": "2047",
+      "name": "Cola Bastão"
+    },
+    {
+      "codigo": "2048",
+      "name": "Cola em Bastão 8g"
+    },
+    {
+      "codigo": "2050",
+      "name": "Cola em Bastão 8g 3M"
+    },
+    {
+      "codigo": "2051",
+      "name": "Cola em Bastão 40g"
+    },
+    {
+      "codigo": "4052",
+      "name": "Cola Instantânea 3g 3M"
+    },
+    {
+      "codigo": "2053",
+      "name": "Cola líquida 40g "
+    },
+    {
+      "codigo": "2054",
+      "name": "Cola Líquida 90g"
+    },
+    {
+      "codigo": "2055",
+      "name": "Cola Maxi 1Kg"
+    },
+    {
+      "codigo": "2056",
+      "name": "Cola Permanente 37g"
+    },
+    {
+      "codigo": "2057",
+      "name": "Cola Tipo Mil 2g"
+    },
+    {
+      "codigo": "2058",
+      "name": "Colchete Latonado N13"
+    },
+    {
+      "codigo": "2059",
+      "name": "Colchete Latonado N4"
+    },
+    {
+      "codigo": "2060",
+      "name": "Colchete Latonado N5"
+    },
+    {
+      "codigo": "2061",
+      "name": "Colchete Latonado N11"
+    },
+    {
+      "codigo": "2062",
+      "name": "Colchete Latonado N13"
+    },
+    {
+      "codigo": "2063",
+      "name": "Colchete Latonado N6"
+    },
+    {
+      "codigo": "2064",
+      "name": "Colchete Latonado N5"
+    },
+    {
+      "codigo": "2065",
+      "name": "Colchete Latonado N6"
+    },
+    {
+      "codigo": "2066",
+      "name": "Colchete Latonado N09"
+    },
+    {
+      "codigo": "2067",
+      "name": "Colchete Latonado N11"
+    },
+    {
+      "codigo": "2068",
+      "name": "Colchete Latonado N14"
+    },
+    {
+      "codigo": "2069",
+      "name": "Colchete Latonado N15"
+    },
+    {
+      "codigo": "2070",
+      "name": "Colchete Latonado N04"
+    },
+    {
+      "codigo": "2071",
+      "name": "Colônia Alfazema 300ml"
+    },
+    {
+      "codigo": "2072",
+      "name": "Compasso Geométrico"
+    },
+    {
+      "codigo": "2073",
+      "name": "Compasso Técnico"
+    },
+    {
+      "codigo": "2074",
+      "name": "Compasso Telescopico"
+    },
+    {
+      "codigo": "2075",
+      "name": "Cortador Circular"
+    },
+    {
+      "codigo": "2076",
+      "name": "Cortador Tipo Gancho"
+    },
+    {
+      "codigo": "2077",
+      "name": "Clips Epoxi"
+    },
+    {
+      "codigo": "2078",
+      "name": "Clips Galvanizado"
+    },
+    {
+      "codigo": "2080",
+      "name": "Clips Colorido"
+    },
+    {
+      "codigo": "2081",
+      "name": "Cortador de Papel"
+    },
+    {
+      "codigo": "2082",
+      "name": "Cortador de Isopor"
+    },
+    {
+      "codigo": "2083",
+      "name": "Dispensador p/Papel Hig."
+    },
+    {
+      "codigo": "2085",
+      "name": "Acetato A3"
+    },
+    {
+      "codigo": "2086",
+      "name": "Escova Plástica p/Unha"
+    },
+    {
+      "codigo": "2087",
+      "name": "Esfuminho N 3"
+    },
+    {
+      "codigo": "2088",
+      "name": "Esfuminho N°4"
+    },
+    {
+      "codigo": "2089",
+      "name": "Esfuminho N 5"
+    },
+    {
+      "codigo": "2090",
+      "name": "Esfuminho N 6"
+    },
+    {
+      "codigo": "2091",
+      "name": "Espanador de Nylon "
+    },
+    {
+      "codigo": "2092",
+      "name": "Espátula de Plástico"
+    },
+    {
+      "codigo": "2093",
+      "name": "Espiral 09mm"
+    },
+    {
+      "codigo": "2094",
+      "name": "Espiral 12mm"
+    },
+    {
+      "codigo": "2095",
+      "name": "Espiral 14mm"
+    },
+    {
+      "codigo": "2096",
+      "name": "Espiral 17mm"
+    },
+    {
+      "codigo": "2097",
+      "name": "Espiral 20mm"
+    },
+    {
+      "codigo": "2098",
+      "name": "Espiral 23mm"
+    },
+    {
+      "codigo": "2099",
+      "name": "Espiral 25mm"
+    },
+    {
+      "codigo": "3000",
+      "name": "Espiral 29mm"
+    },
+    {
+      "codigo": "3001",
+      "name": "Espiral 33mm"
+    },
+    {
+      "codigo": "3002",
+      "name": "Espiral 40mm"
+    },
+    {
+      "codigo": "3003",
+      "name": "Espiral 45mm"
+    },
+    {
+      "codigo": "3004",
+      "name": "Espiral 50mm"
+    },
+    {
+      "codigo": "3005",
+      "name": "Esponja p/Lavar carro"
+    },
+    {
+      "codigo": "3006",
+      "name": "Estilete Largo"
+    },
+    {
+      "codigo": "3007",
+      "name": "Estojo Normógrafos"
+    },
+    {
+      "codigo": "3008",
+      "name": "Etiq. Cartão de  Visita"
+    },
+    {
+      "codigo": "3009",
+      "name": "Etiq.  Form. Cont. "
+    },
+    {
+      "codigo": "3010",
+      "name": "Fio de Nylon"
+    },
+    {
+      "codigo": "3011",
+      "name": "Fita Epson"
+    },
+    {
+      "codigo": "3012",
+      "name": "Globo p/Bingo"
+    },
+    {
+      "codigo": "3013",
+      "name": "Lápis p/Desenho"
+    },
+    {
+      "codigo": "3014",
+      "name": "Livro de Inspeção"
+    },
+    {
+      "codigo": "3015",
+      "name": "Livro de Movimento"
+    },
+    {
+      "codigo": "3016",
+      "name": "Livro de ponto"
+    },
+    {
+      "codigo": "3017",
+      "name": "Livro de Protocolo"
+    },
+    {
+      "codigo": "3018",
+      "name": "Lupa de Bolso"
+    },
+    {
+      "codigo": "3019",
+      "name": "Papel Colorido"
+    },
+    {
+      "codigo": "3020",
+      "name": "Papel colorline"
+    },
+    {
+      "codigo": "3021",
+      "name": "Papel Gouche"
+    },
+    {
+      "codigo": "3022",
+      "name": "Papel Crepom"
+    },
+    {
+      "codigo": "3023",
+      "name": "Papel Duplex"
+    },
+    {
+      "codigo": "3024",
+      "name": "Papel Leather Paperjet"
+    },
+    {
+      "codigo": "3025",
+      "name": "Papel Mi-Teintes"
+    },
+    {
+      "codigo": "3026",
+      "name": "Papel Pedra GDA"
+    },
+    {
+      "codigo": "3027",
+      "name": "Plyester"
+    },
+    {
+      "codigo": "3028",
+      "name": "Papel Verge"
+    },
+    {
+      "codigo": "3029",
+      "name": "Passa Roupa c/Pulverizado"
+    },
+    {
+      "codigo": "3030",
+      "name": "Passe bem c/Pulverizador"
+    },
+    {
+      "codigo": "3031",
+      "name": "Régua Profissional"
+    },
+    {
+      "codigo": "3032",
+      "name": "Acetato PVC"
+    },
+    {
+      "codigo": "3033",
+      "name": "Adesivo Magic Board"
+    },
+    {
+      "codigo": "3034",
+      "name": "Adesivo PVC "
+    },
+    {
+      "codigo": "3035",
+      "name": "Adesivo Fosco"
+    },
+    {
+      "codigo": "3036",
+      "name": "Adeviso Spray Scoth"
+    },
+    {
+      "codigo": "3037",
+      "name": "Papel Adesivo"
+    },
+    {
+      "codigo": "3038",
+      "name": "Adesivo Poliéster"
+    },
+    {
+      "codigo": "3039",
+      "name": "Agenda Boa Forma"
+    },
+    {
+      "codigo": "3040",
+      "name": "Agenda Zip M4"
+    },
+    {
+      "codigo": "3041",
+      "name": "Agenda Permanente Verona"
+    },
+    {
+      "codigo": "3042",
+      "name": "Agenda Permanente Ravena"
+    },
+    {
+      "codigo": "3043",
+      "name": "Agenda Anual Lucca"
+    },
+    {
+      "codigo": "3044",
+      "name": "Agenda Comercial 2017"
+    },
+    {
+      "codigo": "3045",
+      "name": "Agenda Perma. Academie"
+    },
+    {
+      "codigo": "3046",
+      "name": "Godet Moldado"
+    },
+    {
+      "codigo": "3047",
+      "name": "Vassoura Angular c/Cabo"
+    },
+    {
+      "codigo": "3048",
+      "name": "Rodo Aluminio"
+    },
+    {
+      "codigo": "3049",
+      "name": "Cabo Aluminio"
+    },
+    {
+      "codigo": "3050",
+      "name": "Vassoura de Piaçava 20 F"
+    },
+    {
+      "codigo": "3051",
+      "name": "Escova Plástica Oval"
+    },
+    {
+      "codigo": "3052",
+      "name": "Escovão de Plástico "
+    },
+    {
+      "codigo": "3053",
+      "name": "Vassoura de Nylon 20Furos"
+    },
+    {
+      "codigo": "3054",
+      "name": "Borracha c/Capa Plástica"
+    },
+    {
+      "codigo": "3055",
+      "name": "Bom Ar Lavanda"
+    },
+    {
+      "codigo": "3056",
+      "name": "Veja Cloro X14 2/1"
+    },
+    {
+      "codigo": "3057",
+      "name": "Veja Azul Coral "
+    },
+    {
+      "codigo": "3058",
+      "name": "Limpador Diluível Sachê"
+    },
+    {
+      "codigo": "3059",
+      "name": "Canaleta p/Encadernação"
+    },
+    {
+      "codigo": "3060",
+      "name": "Papel Filicoat A4"
+    },
+    {
+      "codigo": "3061",
+      "name": "Envelope de Polietileno"
+    },
+    {
+      "codigo": "1247",
+      "name": "Sabonete 5Lts"
+    },
+    {
+      "codigo": "3062",
+      "name": "Estojo de Pintura"
+    },
+    {
+      "codigo": "3063",
+      "name": "Cavalete Metalico"
+    },
+    {
+      "codigo": "6033",
+      "name": "Flanela S. Margarida "
+    },
+    {
+      "codigo": "3067",
+      "name": "Lacre de Segurança"
+    },
+    {
+      "codigo": "3064",
+      "name": "Pintor Tripe"
+    },
+    {
+      "codigo": "3065",
+      "name": "Cabo Marmorizado"
+    },
+    {
+      "codigo": "831",
+      "name": "Protetor Solar"
+    },
+    {
+      "codigo": "6034",
+      "name": "Tampa p/Lixeira"
+    },
+    {
+      "codigo": "6035",
+      "name": "Kit de Escrita"
+    },
+    {
+      "codigo": "6036",
+      "name": "Bateria Alcalina"
+    },
+    {
+      "codigo": "6037",
+      "name": "Grampeador de Metal"
+    },
+    {
+      "codigo": "6038",
+      "name": "Mini Grampeador"
+    },
+    {
+      "codigo": "6039",
+      "name": "Flip Chart MDF"
+    },
+    {
+      "codigo": "6040",
+      "name": "Tinta Aquarela Liquida"
+    },
+    {
+      "codigo": "6041",
+      "name": "Biscoite de Maizena"
+    },
+    {
+      "codigo": "6042",
+      "name": "Biscoito Amanteigado"
+    },
+    {
+      "codigo": "6043",
+      "name": "Biscoito Crean Cracker"
+    },
+    {
+      "codigo": "6044",
+      "name": "Caixa Termica "
+    },
+    {
+      "codigo": "6045",
+      "name": "Agenda Comercial "
+    },
+    {
+      "codigo": "6046",
+      "name": "Geladeira Termica"
+    },
+    {
+      "codigo": "3068",
+      "name": "Prancheta MDF"
+    },
+    {
+      "codigo": "6047",
+      "name": "Caderno CD 196Fls"
+    },
+    {
+      "codigo": "6048",
+      "name": "Caderno CD 200Fls"
+    },
+    {
+      "codigo": "6049",
+      "name": "Caderneta "
+    },
+    {
+      "codigo": "6050",
+      "name": "Lapis de Cor"
+    },
+    {
+      "codigo": "832",
+      "name": "Balde/Espremedor"
+    },
+    {
+      "codigo": "833",
+      "name": "Suporte p/Mop"
+    },
+    {
+      "codigo": "834",
+      "name": "Carteira"
+    },
+    {
+      "codigo": "835",
+      "name": "Thinner"
+    },
+    {
+      "codigo": "836",
+      "name": "Lençol"
+    },
+    {
+      "codigo": "6051",
+      "name": "Ferramentas"
+    },
+    {
+      "codigo": "6052",
+      "name": "Pincel C/Reservatório"
+    },
+    {
+      "codigo": "6053",
+      "name": "Prancheta Acrilica"
+    },
+    {
+      "codigo": "837",
+      "name": "Prato Descartavél"
+    },
+    {
+      "codigo": "838",
+      "name": "Traçador de Altura"
+    },
+    {
+      "codigo": "839",
+      "name": "Sabonete Antisseptico"
+    },
+    {
+      "codigo": "840",
+      "name": "Rolete p/Maquina"
+    },
+    {
+      "codigo": "841",
+      "name": "Sacola Plastica"
+    },
+    {
+      "codigo": "6054",
+      "name": "Cola Instantanea"
+    },
+    {
+      "codigo": "842",
+      "name": "Pasta p/Limpeza"
+    },
+    {
+      "codigo": "843",
+      "name": "Gel Adesivo"
+    },
+    {
+      "codigo": "6055",
+      "name": "Prancheta Aluminio"
+    },
+    {
+      "codigo": "844",
+      "name": "Pasta Standard "
+    },
+    {
+      "codigo": "845",
+      "name": "Coador de Pano"
+    },
+    {
+      "codigo": "846",
+      "name": "Pasta Isoflex"
+    },
+    {
+      "codigo": "6056",
+      "name": "Pincel para Porcelana"
+    },
+    {
+      "codigo": "6057",
+      "name": "Papel Sulfite Reciclado"
+    },
+    {
+      "codigo": "6058",
+      "name": "Prancheta Plastica"
+    },
+    {
+      "codigo": "847",
+      "name": "Lampada Led"
+    },
+    {
+      "codigo": "6059",
+      "name": "Filtro de Papel"
+    },
+    {
+      "codigo": "6060",
+      "name": "Copo Aço Inox"
+    },
+    {
+      "codigo": "6061",
+      "name": "Urna Em ABS"
+    },
+    {
+      "codigo": "6062",
+      "name": "Porta Canetas/Smartphone"
+    },
+    {
+      "codigo": "6063",
+      "name": "Porta Celular/Table"
+    },
+    {
+      "codigo": "6064",
+      "name": "Gabarito Elipse"
+    },
+    {
+      "codigo": "6065",
+      "name": "Ferramentas para Modelar"
+    },
+    {
+      "codigo": "6066",
+      "name": "Esteca Plastica"
+    },
+    {
+      "codigo": "6067",
+      "name": "Kit Para Slime"
+    },
+    {
+      "codigo": "6068",
+      "name": "Tinta P/Slime"
+    },
+    {
+      "codigo": "6069",
+      "name": "Quadro Para Giz Liquido"
+    },
+    {
+      "codigo": "848",
+      "name": "Sabão em Pasta"
+    },
+    {
+      "codigo": "6070",
+      "name": "Avental Plástico"
+    },
+    {
+      "codigo": "6071",
+      "name": "Caderneta CF"
+    },
+    {
+      "codigo": "6072",
+      "name": "Prancheta decorada"
+    },
+    {
+      "codigo": "6073",
+      "name": "Leitor de Cod. Barras"
+    },
+    {
+      "codigo": "6074",
+      "name": "Sabonete 90g"
+    },
+    {
+      "codigo": "6075",
+      "name": "Mascara em PVC"
+    },
+    {
+      "codigo": "6076",
+      "name": "Refil Para caderno"
+    },
+    {
+      "codigo": "6077",
+      "name": "Pulverizador Plastico"
+    },
+    {
+      "codigo": "6078",
+      "name": "Amaciante 5 Litros"
+    },
+    {
+      "codigo": "6079",
+      "name": "Urnas e Caixas"
+    },
+    {
+      "codigo": "6080",
+      "name": "Pincel Marcador"
+    },
+    {
+      "codigo": "6081",
+      "name": "Amaciante 500ml"
+    },
+    {
+      "codigo": "6082",
+      "name": "Papel Sulfite Branco A4"
+    },
+    {
+      "codigo": "6083",
+      "name": "Papel Sulfite"
+    },
+    {
+      "codigo": "6084",
+      "name": "Papel Sulfite P/Plotter"
+    },
+    {
+      "codigo": "6085",
+      "name": "Caderno 140 Folhas"
+    },
+    {
+      "codigo": "6086",
+      "name": "Tinta Nanquim"
+    },
+    {
+      "codigo": "6087",
+      "name": "Kit para Pintura"
+    },
+    {
+      "codigo": "6088",
+      "name": "Disco para Encadernação"
+    },
+    {
+      "codigo": "6089",
+      "name": "Planner"
+    }
+  ]
+}

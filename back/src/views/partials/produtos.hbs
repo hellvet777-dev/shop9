@@ -1,0 +1,20 @@
+<div class="table-responsive">
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Id Woo</th>
+                <th>SKU</th>
+                <th>Nome</th>
+            </tr>
+        </thead>
+        <tbody>
+            {{#each produtos}}
+            <tr>
+                <td>{{this.idWoo}}</td>
+                <td>{{this.sku}}</td>
+                <td>{{this.nome}}</td>
+            </tr>
+            {{/each}}
+        </tbody>
+    </table>
+</div>
